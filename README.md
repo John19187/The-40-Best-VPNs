@@ -93,26 +93,7 @@
 
 
 ---
-## [海盗云vpn](https://github.com/jichangdaohangzhan/haidaocloud)
 
-海盗云vpn是海外IEPL线路的便宜VPN，拥有超大网络带宽，确保用户在高峰时段也能享受到稳定的网络速率。月付费用低至9.9元、24元、60元的套餐选择，主打的就是量大价低。无障碍解锁YouTube、Ins、Facebook、Google、Netflix、TikTok、Hulu、HBO、TVB、Disney+等热门平台与流媒体服务，支持chatgpt、bingAI， 针对手机电脑全端
-
-[ **海盗云VPN官网地址入口**](https://ee.silos.top/cheap/ew8KhPafvG)
-
-[**备用 - 优质稳定性价比VPN入口-年付活动58元600GB、88元2300GB、138元3200GB-送小火箭ID**](https://pp.silos.top/lepl/sxdxZeA8VV)
-
-![](https://github.com/user-attachments/assets/03de3bc6-4c79-4411-9a03-87b19ebf325a)
-
-### **套餐概览**
-
-| 套餐名称    | 价格      | 流量   | 线路数       | 速率         | 设备数 |
-| ----------- | --------- | ------ | ------------ | ------------ | ------ |
-| VPN初级    | ¥9.90/月  | 300GB  | 5条基础线路  | 最高100Mbps  | 2台    |
-| VPN-por     | ¥24.00/月 | 1000GB | 15条高速线路 | 最高500Mbps  | 5台    |
-| VPN-pro max | ¥40.00/月 | 2000GB | 30+高速节点  | 最高1000Mbps | 10台   |
-
-
----
 ## [NaiU_Net-VPN](https://github.com/jichangdaohangzhan/NaiU_Net)
 
 NaiU_Net-VPN是一家成立于2023年10月的-VPN梯子-VPN，使用深港IEPL专线，提供稳定的网络连接。该-VPN支持SS协议，并支持UDP，适合游戏和流媒体使用。
