@@ -67,7 +67,7 @@
 | NiceDuck-VPN | 全隧道中转，高SLA，专属Emby服务，支持多流媒体                       | Netflix、Disney+       | 多运营商优化                | 月付¥28-¥150，年付套餐        | 轻度到重度用户                 | 多平台支持           | 支持多设备，推广返利                      |
 | Riolu 精灵学院| 多协议支持，Shadowsocks、Vless+Reality、Hysteria，流媒体和ChatGPT解锁 | Netflix、ChatGPT       | 多协议支持                 | 月付¥6-¥60，不限时套餐        | 轻度到大流量用户               | 多平台支持           | 支持EMBY，套餐灵活                       |
 
-## [星云-VPN](https://github.com/jichangdaohangzhan/xing-lian)
+## 星云-VPN
 
 星云VPN是一家专注于提供高速稳定网络服务的VPN，以其出色的稳定性、高速网络和高性价比赢得了广泛好评。
 
@@ -121,7 +121,7 @@
 
 ---
 
-## [NaiU_Net-VPN](https://github.com/jichangdaohangzhan/NaiU_Net)
+## NaiU_Net-VPN
 
 NaiU_Net-VPN是一家成立于2023年10月的-VPN梯子-VPN，使用深港IEPL专线，提供稳定的网络连接。该-VPN支持SS协议，并支持UDP，适合游戏和流媒体使用。
 
@@ -212,7 +212,7 @@ CyberGuard-VPN还提供不限时流量包套餐，适合不同流量需求的用
 
 
 ---
-## [bygcloud白月光-VPN](https://github.com/jichangdaohangzhan/bygcloud)
+## bygcloud白月光-VPN
 
 **bygcloud白月光-VPN加速器**于2021年开设，采用 **Shadowsocks翻墙协议** 和 **IEPL专线节点**，结合负载均衡技术，提供稳定且快速的网络连接。除了常规的包月套餐外，白月光还提供了一次性流量包套餐，用户可以根据需求按量付费，灵活使用。
 
@@ -246,7 +246,7 @@ CyberGuard-VPN还提供不限时流量包套餐，适合不同流量需求的用
 ✅ **长期备用 / 突发流量需求** → **500G / 1000G 流量包**（不限时间）  
 
 ***
-## [Bitz Net-VPN](https://github.com/jichangdaohangzhan/Bitz-Net)
+## Bitz Net-VPN
 Bitz Net-VPN多运营商优化连接，使用了加密隧道，通过防火墙时更加隐秘，更加不易被防火墙审查；节点包含美国、日本、台湾、香港、新加坡等，稳定流媒体解锁，ChatGPT等ai服务访问解锁；客户端方面支持Clash QuantumultX等通用客户端导入订阅链接；支付方式支持支付宝和微信。
 
 **访问官网**：点击下方链接进入
@@ -306,7 +306,7 @@ Bitz Net-VPN多运营商优化连接，使用了加密隧道，通过防火墙�
 - **不限设备，全平台通用**  
 ---
 
-## [星链云VPN](https://github.com/jichangdaohangzhan/starink)
+## 星链云VPN
 星链云开业时间-2023/02/21，线路原生支持解锁流媒体，内容包括 Netflix、Disney、HBO、TVB、Happyon、AbemaTV 等在内的多种流媒体视频。
 
 全线路 IEPL 跨境专线出国 1000Mbps峰值速率 入口接入，自建全线路IEPL专线接入保证稳定节点倍率1。Netflix、動畫瘋、HBO、Disney+、等流媒體解鎖，支持UDPN、NginX+TLS、SecureX安全隧道加密協議线路100%匿名。
@@ -361,7 +361,7 @@ Bitz Net-VPN多运营商优化连接，使用了加密隧道，通过防火墙�
 
 
 ---
-## [闪电-VPN](https://github.com/jichangdaohangzhan/shandian)
+## 闪电-VPN
 闪电-VPN基于自有专线资源托管服务，总冗余10Gbps，最大可突发100Mbps业务带宽，具有强大SLA保证。；节点包含美国、日本、台湾、香港、新加坡等，Netflix，HBO Max，Amazon Prime Video，Disney Now，Disney+等流媒体稳定解锁，ChatGPT等ai服务访问解锁；客户端方面支持Clash QuantumultX等通用客户端导入订阅链接；支付方式支持支付宝和微信。
 
 **访问官网**：点击下方链接进入
@@ -385,7 +385,7 @@ Bitz Net-VPN多运营商优化连接，使用了加密隧道，通过防火墙�
 
 
 ---
-##  [三月七-VPN](https://github.com/jichangdaohangzhan/sanyueqi)
+##  三月七-VPN
 三月七拥有多条动态IP家宽线路，这意味着我们提供的IP具有高纯净度，可以尽情使用Tiktok、Facebook、Netflix等需要原生IP的应用，同时解锁各类AI平台，如ChatGPT、Midjourney、Adobe PS Ai beta版等，加上IPLC专线的加持，给您带来极致的速度和全平台流媒体解锁，前所未有的优质翻墙体验
 **访问官网**：点击下方链接进入
 
@@ -434,7 +434,7 @@ Bitz Net-VPN多运营商优化连接，使用了加密隧道，通过防火墙�
 
 
 ---
-## [轻云VPN](https://github.com/jichangdaohangzhan/qingyun)
+## 轻云VPN
 
 - **全球节点**：拥有全球多区域节点，支持访问YouTube、Twitter、Facebook等外网门户。
 - **流媒体解锁**：支持解锁Netflix、HBO、Spotify、Disney+、Hulu等流媒体。
@@ -460,7 +460,7 @@ Bitz Net-VPN多运营商优化连接，使用了加密隧道，通过防火墙�
 
 
 ---
-## [杜卡迪-VPN](https://github.com/jichangdaohangzhan/dukadi)
+## 杜卡迪-VPN
 
 杜卡迪-VPN，又称杜卡迪加速器，是一家成立于2023年的-VPN梯子-VPN，主打最新的Hysteria2（HY2）协议。该-VPN以其高性能、低延迟和价格实惠的特点而受到用户的欢迎，支持解锁多种流媒体服务，如Netflix、Disney+等。
 
@@ -507,7 +507,7 @@ G口带宽接入：所有节点均配备G口级别的带宽接入，确保用户
 - **高流量需求（大规模下载）** → 高级套餐（¥60/月）
 
 ---
-## [千速喵-VPN](https://github.com/jichangdaohangzhan/qiansumiao)
+## 千速喵-VPN
 千速喵-VPN（TSmeow）是一家专注于提供高速稳定网络服务的-VPN。
 
  主要特点：
@@ -551,7 +551,7 @@ G口带宽接入：所有节点均配备G口级别的带宽接入，确保用户
 
 
 ---
-## [青云梯-VPN](https://github.com/jichangdaohangzhan/qingyunti)
+## 青云梯-VPN
 青云梯-VPN成立于2021年, 多年沉淀；全IPLC专线，最大提供2.5GBPs速率，无倍率;
 
 支持解锁所有流媒体，包括Netflix、Disney+、HBO MAX、Hugo等等；
@@ -590,7 +590,7 @@ G口带宽接入：所有节点均配备G口级别的带宽接入，确保用户
 ✅ **独享IP & 企业级服务** 👉 **定制节点（¥680/月）**  
 
 ---
-## [赔钱-VPN](https://github.com/jichangdaohangzhan/peiqian)
+## 赔钱-VPN
 **赔钱-VPN**成立于2022年，提供 **三网高质量线路**，确保用户获得卓越的网络连接体验。平台的线路带宽最高可达到 **20000Mbps**，充分满足高速需求。
 
 此外，**赔钱-VPN**还包括多个 **中转高速节点** 和 **0.1倍下载节点**，为用户提供更加流畅的网络访问体验。该平台不限制 **客户端数量**，让多设备同时连接更加便捷。同时，平台还支持 **流媒体解锁**，确保您可以无障碍访问各大流媒体平台。
@@ -625,7 +625,7 @@ G口带宽接入：所有节点均配备G口级别的带宽接入，确保用户
 
 
 ---
-## [泡泡Dog-VPN](https://github.com/jichangdaohangzhan/paopaodog)
+## 泡泡Dog-VPN
 **泡泡Dog-VPN** 成立于2022年，专注于提供稳定的网络加速服务。该平台使用 **大陆国际专线传输网络**，支持 **IPLC专线**，通过 **多运营商优化连接** 技术，确保高速稳定的连接体验。平台在流媒体解锁方面表现出色，能够稳定解锁包括 **Netflix** 等热门平台。同时，用户还可以顺利访问 **ChatGPT** 服务，满足全球用户的多种需求。
 
 **泡泡Dog-VPN** 采用了 **secure加密隧道** 技术，这使得在通过防火墙时更加隐秘，避免被审查，提高了网络的安全性和隐私保护。平台支持 **支付宝** 和 **微信支付**，为用户提供便捷的支付方式。
@@ -660,7 +660,7 @@ G口带宽接入：所有节点均配备G口级别的带宽接入，确保用户
 
 
 ---
-## [牧牛云VPN](https://github.com/jichangdaohangzhan/muniu-cloud)
+## 牧牛云VPN
 
 **牧牛云VPN** 是一家知名的老牌网络加速服务平台，提供稳定可靠的科学上网解决方案。平台包括三个公益节点，并支持 **IPLC 中继和专线**，现有超过 50 个高质量节点，所有节点均支持 **Shadowsocks(R)** 协议，兼容所有主流的 **SS/SSR 客户端**，确保用户畅享顺畅的网络体验。
 
@@ -701,7 +701,7 @@ G口带宽接入：所有节点均配备G口级别的带宽接入，确保用户
 
 
 ---
-## [咪兔 Mitu-VPN](https://github.com/jichangdaohangzhan/Mitu)
+## 咪兔 Mitu-VPN
 
 **咪兔 Mitu** 是一家专为中国用户精心优化的高质量网络加速服务提供商，主打稳定高速的中继节点体验，支持多平台自动配置，无需繁琐设置，轻松实现全设备无障碍上网。
 
@@ -744,7 +744,7 @@ G口带宽接入：所有节点均配备G口级别的带宽接入，确保用户
 | Premium 流量包 | 大杯 | ¥149.80    | 500GB | 2Gbps | 5 台 | 精品50+  | 否       | 顶配畅用           | ⭐⭐⭐⭐⭐    |
 
 ---
-## [龙猫云VPN](https://github.com/jichangdaohangzhan/longmaoyun)
+## 龙猫云VPN
 
 龙猫云是一家成立于2023年的-VPN梯子-VPN，主要提供Shadowsocks和Trojan协议的节点，支持多种设备和操作系统，包括Android、iOS、macOS、Windows和Linux137。该-VPN专注于为用户提供稳定、高速的翻墙服务，适用于解锁流媒体和AI服务，如Netflix、Disney+、ChatGPT等。
 
@@ -780,7 +780,7 @@ AI服务支持：支持ChatGPT等AI服务24。
 | **DIY定制套餐** | ¥680.00 | 1个月 | 0GB（独享IP+独享带宽） | 无限速 | 适用于TikTok直播、跨境电商，需工单或TG私聊咨询       ---
 
 ---
-## [fastlink-VPN](https://github.com/jichangdaohangzhan/fastlink)
+## fastlink-VPN
 FASTLINK承接全球定制服务，全专线接入，定制地区尊享VIP全球加速，独享IP!!!
 
 先购买套餐再订阅！ 先购买套餐再订阅！先购买套餐再订阅！
@@ -831,7 +831,7 @@ Fastlink目前协议支持SS和VMESS。按照教程推荐的默认客户端使�
 
 
 ---
-## [Eternal Network-VPN](https://github.com/jichangdaohangzhan/Eternal-Network)
+## Eternal Network-VPN
 
 
 Eternal Network-VPN大陆国际专线传输网络 | IPLC支持，多运营商优化连接，稳定流媒体解锁，ChatGPT 服务访问解锁。超低延迟隧道 ，最高可达5Gbps带宽。
@@ -869,7 +869,7 @@ Eternal Network-VPN大陆国际专线传输网络 | IPLC支持，多运营商优
 
 
 ---
-## [哈基米-VPN](https://github.com/jichangdaohangzhan/Hajimi)
+## 哈基米VPN
 
 哈基米高速直连-VPN，不限制客户端数，不限制端口速度，不限制每日使用量；
 
@@ -898,7 +898,7 @@ Eternal Network-VPN大陆国际专线传输网络 | IPLC支持，多运营商优
 | **1TB 不限时 (限量版)**   | 224.25   | 1024GB | 大量流量需求，长期备用 | 限量版，流量不过期 |
 
 ***
-## [FLYINGBIRD飞鸟-VPN](https://github.com/jichangdaohangzhan/FLYINGBIRD)
+## FLYINGBIRD飞鸟VPN
 
 飞鸟-VPN是一个全员海外落地的ss-VPN，全专线IPLC，不限速，不限设备数量，超稳晚高峰，流媒体全解锁！目前，飞鸟加速器在全球超过70条优质线路，其节点遍布于亚洲、美洲和欧洲等国家和地区，如中国香港、中国台湾、日本、新加坡、马来西亚、土耳其、阿根廷和美国等，支持看奈飞Netflix/HULU/HBO/TVB/动画疯等国外流媒体视频，能够很好地满足大多数场景的应用落地和用户需求，性价比很高。
 [ **FLYINGBIRD飞鸟-VPN官网地址入口**](https://fbinv02.fbaff.cc/auth/register?code=WNwW)
@@ -974,7 +974,7 @@ Eternal Network-VPN大陆国际专线传输网络 | IPLC支持，多运营商优
 </table>
 
 ---
-## [CAC Apex-VPN](https://github.com/jichangdaohangzhan/CAC-Apex)
+## CAC Apex-VPN
 
 CAC Apex-VPN多运营商优化连接，V1节点采用直连方案构建，V2节点采用中转方案构建；节点包含美国、日本、台湾、香港、新加坡等，Netflix，HBO Max，Amazon Prime Video，Disney Now，Disney+等流媒体稳定解锁，ChatGPT等ai服务访问解锁；客户端方面支持Clash QuantumultX等通用客户端导入订阅链接；支付方式支持支付宝和微信。
 
@@ -1007,7 +1007,7 @@ CAC Apex-VPN多运营商优化连接，V1节点采用直连方案构建，V2节�
 
 ***
 
-## [夜煞云VPN](https://github.com/jichangdaohangzhan/yeshayun)
+## 夜煞云VPN
 夜煞云VPN建立于2022年，大陆国际专线传输网络 | IPLC支持，多运营商优化连接，稳定流媒体解锁，ChatGPT 服务访问解锁。
 
 夜煞云使用了secure加密隧道，通过防火墙时更加隐秘，更加不易被防火墙审查。
@@ -1045,7 +1045,7 @@ CAC Apex-VPN多运营商优化连接，V1节点采用直连方案构建，V2节�
 
 
 ---
-## [YToo（歪兔）-VPN](https://github.com/jichangdaohangzhan/YToo)
+## YToo（歪兔）-VPN
 
 YToo（歪兔）-VPN 是一家成立于 2021 年的小众稳定科学上网服务提供商，低调运营、注重体验，支持主流的 Shadowsocks（SS）和 Trojan 协议，适配广泛设备与客户端，便捷易用。
 
@@ -1086,7 +1086,7 @@ YToo（歪兔）-VPN 是一家成立于 2021 年的小众稳定科学上网服�
 - 相对而言，**年付性价比高于月付**，BASIC 年付约 8.5 折。
 
 ***
-## [肥猫云VPN](https://github.com/jichangdaohangzhan/FATCAT-)
+## 肥猫云VPN
 
 FATCAT 肥猫云是一家 2023 年成立的新-VPN，目测是某大-VPN的分站，Trojan 协议节点，早期采用优质公网隧道中转，后升级为 IEPL 专线网络，支持 Netflix、Disney+ 流媒体和 TikTok、ChatGPT 解锁，性价比VPN之一。
 
@@ -1115,7 +1115,7 @@ FATCAT 肥猫云是一家 2023 年成立的新-VPN，目测是某大-VPN的分�
 ![image](https://github.com/user-attachments/assets/579758b2-0120-4e20-b404-777aad1370e8)
 
 ---
-## [xgcloud-VPN](https://github.com/jichangdaohangzhan/xgcloud)
+## xgcloud-VPN
 **xgCloud** 是一家提供高速稳定服务的优质 **V2Ray -VPN**，采用 **BGP 隧道中转** 和高端优化线路，尽管没有专线，但凭借其精细的技术优化，仍能确保出色的连接质量。平台覆盖全球近 **20 条优质线路**，节点遍布 **亚洲、美洲、欧洲** 等多个地区，如 **中国香港、台湾、日本、新加坡、美国、德国、荷兰、芬兰、英国** 等，满足全球用户的需求。
  **xgCloud 特色**：
 - **全球覆盖**：提供多区域节点，确保灵活、稳定的网络连接  
@@ -1159,7 +1159,7 @@ FATCAT 肥猫云是一家 2023 年成立的新-VPN，目测是某大-VPN的分�
 
 
 ---
-## [V2free-VPN](https://github.com/jichangdaohangzhan/V2free)
+## V2free-VPN
 
 V2free-VPN是一家专注于提供数据加密和网络代理服务的-VPN，主要特点包括：
 
@@ -1212,7 +1212,7 @@ V2free-VPN是一家专注于提供数据加密和网络代理服务的-VPN，主
 
 
 ---
-## [Taishan Net 泰山-VPN](https://github.com/jichangdaohangzhan/taishan)
+## Taishan Net 泰山-VPN
 
 Taishan Net（泰山-VPN）是一家由海外团队运营的-VPN服务，成立于2023年5月。它以高性价比著称，提供多种套餐，包括每月64GB和128GB的流量选项，价格分别为8.5元和10元，年付可享受折扣，仅需68元和84元。该-VPN支持多种流媒体解锁，包括YouTube、Netflix、Disney等，并且支持ChatGPT，付款方式：支持支付宝、微信和USDT付款。。
 
@@ -1255,7 +1255,7 @@ Taishan Net（泰山-VPN）是一家由海外团队运营的-VPN服务，成立�
 
 
 ---
-## [XSUS-VPN](https://github.com/jichangdaohangzhan/XSUS)
+## XSUS-VPN
 
 XSUS-VPN是国际专线传输网络，多运营商优化连接，稳定流媒体解锁，ChatGPT 服务访问解锁;使用了加密隧道，通过防火墙时更加隐秘，更加不易被防火墙审查；客户端方面支持Clash QuantumultX等通用客户端导入订阅链接；支付方式支持支付宝和微信。
 
@@ -1283,7 +1283,7 @@ XSUS-VPN是国际专线传输网络，多运营商优化连接，稳定流媒体
 
 
 ---
-## [TAG-VPN](https://github.com/jichangdaohangzhan/ta-g)
+## TAG-VPN
 TAG-VPN多运营商优化连接，使用了加密隧道，通过防火墙时更加隐秘，更加不易被防火墙审查；节点包含美国、日本、台湾、香港、新加坡等，Netflix，HBO Max，Amazon Prime Video，Disney Now，Disney+等流媒体稳定解锁，ChatGPT等ai服务访问解锁；客户端方面支持Clash QuantumultX等通用客户端导入订阅链接；支付方式支持支付宝、微信、USDT支付。
 
 TAG有电脑和安卓一键-VPN客户端，iOS需要搭配小火箭使用。TAG -VPN除了包月套餐外，也有按量付费套餐，限时1年，用完即止。
@@ -1320,7 +1320,7 @@ TAG有电脑和安卓一键-VPN客户端，iOS需要搭配小火箭使用。TAG 
 
 
 ---
-## [STC-SPADES-VPN](https://github.com/jichangdaohangzhan/STC-SPADES)
+## STC-SPADES-VPN
 STC-SPADES采用新一代流量中继服务，所有流量将加密传输到我们的数据中心并转发到目标地址，速度更快，稳定性更强。国内5大中转出口 全球7大数据中心 100+落地节点,包含美国、日本、台湾、香港、新加坡等，Netflix，HBO Max，Amazon Prime Video，Disney Now，Disney+等流媒体稳定解锁，ChatGPT等ai服务访问解锁；客户端方面支持Clash QuantumultX等通用客户端导入订阅链接；支付方式支持支付宝和微信。
 全平台SSR+V2Ray订阅模式。全新升级IPLC国际专线，尽享自由传输；官网客户端一键连接，高效、便捷、快速体验。
 **访问官网**：点击下方链接进入
@@ -1355,7 +1355,7 @@ STC-SPADES采用新一代流量中继服务，所有流量将加密传输到我�
 💡 **建议**：如果你需要高稳定性，**进阶或旗舰套餐更值得**！  
 
 ---
-## [SSRDOG-VPN](https://github.com/jichangdaohangzhan/SSRDOG)
+## SSRDOG-VPN
 
 SSRDOG -VPN采用 Shadowsocks 专用协议，线路有 IEPL 和 IPLC 专线，对 Netflix、Disney+ 流媒体解锁支持度也很好。SSRDOG -VPN有定制的一键翻墙-VPN客户端，支持安卓、Mac 和 Windows ，iOS 用户推荐使用 Shadowrocket 小火箭代理软件。
 
@@ -1405,7 +1405,7 @@ SSRDOG -VPN采用 Shadowsocks 专用协议，线路有 IEPL 和 IPLC 专线，�
 
 
 ---
-## [SpeedCAT闪电猫-VPN](https://github.com/jichangdaohangzhan/SpeedCAT)
+## SpeedCAT闪电猫-VPN
 闪电猫是一个v2ray-VPN，使用SS技术，支持大部分的第三方客户端。闪电猫拥有全球120+节点，节点速度可高达5Gbps，看4k视频不是问题。使用了加密隧道，通过防火墙时更加隐秘，更加不易被防火墙审查；稳定流媒体解锁，ChatGPT等ai服务访问解锁；客户端方面支持Clash QuantumultX等通用客户端导入订阅链接；支付方式支持支付宝和微信。
 
 **访问官网**：点击下方链接进入
@@ -1445,7 +1445,7 @@ SSRDOG -VPN采用 Shadowsocks 专用协议，线路有 IEPL 和 IPLC 专线，�
 
 
 ---
-## [nexitally奶昔-VPN](https://github.com/jichangdaohangzhan/nexitally)
+## nexitally奶昔-VPN
 
 **Nexitally（奶昔）-VPN** 成立于 2017 年，专注于提供优质的专线网络服务。凭借独特的网络优化技术，奶昔-VPN能够保证高峰期时速率的稳定性，确保用户在任何时段都能享受高速、低延迟的上网体验。
 
@@ -1528,7 +1528,7 @@ SSRDOG -VPN采用 Shadowsocks 专用协议，线路有 IEPL 和 IPLC 专线，�
 |    共需人民币 132 元    |    共需人民币 144 元    |       共需人民币 36 元       |
 
 ***
-## [极客云VPN](https://github.com/jichangdaohangzhan/jikeyun)
+## 极客云VPN
 
 极客云（JikeCloud），又称极客零（Jike0），是一家专业的SSR/V2Ray-VPN，成立于2017年，拥有近70个付费节点。该-VPN使用CN2/BGP隧道中转和IPLC国际专线，提供灵活的套餐和高性价比的服务，适合各类用户需求。
 
@@ -1569,7 +1569,7 @@ SSRDOG -VPN采用 Shadowsocks 专用协议，线路有 IEPL 和 IPLC 专线，�
 
 
 ---
-## [NiceDuck-VPN](https://github.com/jichangdaohangzhan/NiceDuck)
+## NiceDuck-VPN
 NiceDuck-VPN，全隧道中转线路，国内多入口，高SLA保证，提供专属Emby服务。
 
 全节点流媒体支持，包括但不限于ChatGPT/Netfilx/Disney+/Dazn/动画疯/Abema/DMM等
@@ -1643,12 +1643,12 @@ Shadowsocks协议，支持Android/iOS/Mac/Windows/Linux/路由器平台。
 
 
 ---
-## [红杏-VPN-VPN](https://github.com/jichangdaohangzhan/hongxing--VPN)
+## 红杏-VPN
 
-红杏-VPN-VPN多运营商优化连接，使用了加密隧道，通过防火墙时更加隐秘，更加不易被防火墙审查；节点包含美国、日本、台湾、香港、新加坡等，Netflix，HBO Max，Amazon Prime Video，Disney Now，Disney+等流媒体稳定解锁，ChatGPT等ai服务访问解锁；客户端方面支持Clash QuantumultX等通用客户端导入订阅链接；支付方式支持支付宝和微信。
+红杏VPN多运营商优化连接，使用了加密隧道，通过防火墙时更加隐秘，更加不易被防火墙审查；节点包含美国、日本、台湾、香港、新加坡等，Netflix，HBO Max，Amazon Prime Video，Disney Now，Disney+等流媒体稳定解锁，ChatGPT等ai服务访问解锁；客户端方面支持Clash QuantumultX等通用客户端导入订阅链接；支付方式支持支付宝和微信。
 
-- [ **红杏-VPN-VPN官网地址入口1 «**](https://hx666.02000.net/#/register?code=eUkhIbDx)
-- [ **红杏-VPN-VPN官网地址入口2**](https://hx666.info/#/register?code=eUkhIbDx)
+- [ **红杏-VPN官网地址入口1 «**](https://hx666.02000.net/#/register?code=eUkhIbDx)
+- [ **红杏-VPN官网地址入口2**](https://hx666.info/#/register?code=eUkhIbDx)
 - [**备用 - 优质稳定性价比VPN入口-年付活动58元600GB、88元2300GB、138元3200GB-送小火箭ID «**](https://ff.silos.top/lepl/EuA6kxXnKz)
 
 ![image](https://github.com/user-attachments/assets/e636dd45-816d-45c6-b371-84c19d1a45ad)
@@ -1687,7 +1687,7 @@ Shadowsocks协议，支持Android/iOS/Mac/Windows/Linux/路由器平台。
 
 
 ---
-## [Riolu 精灵学院-VPN](https://github.com/jichangdaohangzhan/Riolu)
+## Riolu 精灵学院-VPN
 
 Riolu.443 精灵学院是一家2023年开业的翻墙-VPN，-VPN中独一家的Shadowsocks、Vless+Reality、Hysteria、 超多协议节点支持，线路有直连也有隧道中转，性价比VPN之一，套餐起步价格很便宜并有不限时长按量付费套餐提供。精灵学院-VPN需要挑选客户端使用，有的客户端是不支持新协议的，-VPN流媒体解锁和 ChatGPT 表现都十分不错
 
@@ -1725,7 +1725,7 @@ Riolu.443 精灵学院是一家2023年开业的翻墙-VPN，-VPN中独一家的S
 - **长期用户（无需按月订阅）** ➝ **不限时流量套餐**
 
 ---
-## [Cylink 次元链接-VPN](https://github.com/jichangdaohangzhan/Cylink)
+## Cylink 次元链接-VPN
 次元链接（Cylink）-VPN是一家 2018 年开业的老牌-VPN，线路有公网隧道中转和 IEPL 专线，智能负载均衡，ShadowsocksR 协议（SSR），提供低倍率节点，有定制的三端（Windows、Mac 和 Android）。节点支持 Netflix、Disney+ 流媒体解锁、ChatGPT 解锁等，能满足大部分常用的解锁需求。
 **访问官网**：点击下方链接进入
 
