@@ -48,11 +48,11 @@
 
 星云VPN是一家专注于提供[高速稳定网络服务的机场VPN](https://nodesilo.org/ji-chang-guide/wen-ding-official-site-coupons-review.html)，以其出色的稳定性、高速网络和高性价比赢得了广泛好评。
 
-**[星云VP入口1](https://user.xyfast.xyz/#/register?code=rgfjkvg)**
+**[星云VPN入口1](https://user.xyfast.xyz/#/register?code=rgfjkvg)**
 
-**[星云VP入口2](https://user.xxxlsop.com/#/register?code=rgfjkvg)**
+**[星云VPN入口2](https://user.xxxlsop.com/#/register?code=rgfjkvg)**
 
-**[星云VP入口3](https://www.xxxlsop3.com/#/register?code=rgfjkvg)**
+**[星云VPN入口3](https://www.xxxlsop3.com/#/register?code=rgfjkvg)**
 
 ![星云-VPN](https://github.com/user-attachments/assets/9eaa9c40-ab38-48ca-8235-209baa40f592)
 <img width="3083" height="962" alt="星云-VPN机场第1张" src="https://github.com/user-attachments/assets/74970cf4-d0f6-4ffb-a348-3312057137ac" />
