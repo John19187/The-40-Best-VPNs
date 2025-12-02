@@ -76,7 +76,7 @@
 
 ### 套餐详情介绍
 优惠码：星云
-*一次性流量：48元/200G、98元/500G、279元/1500G *
+*一次性流量：48元/200G、98元/500G、279元/1500G、438元2600G *
 
 | **套餐类型** | **价格** | **月流量** | **客户端数** | **速率** |
 | ------------ | -------- | ---------- | ------------ | -------- |
@@ -87,9 +87,9 @@
 
 | **套餐类型**   | **价格** | **年流量** | **客户端数** | **速率** |
 | -------------- | -------- | ---------- | ------------ | -------- |
-| 特惠限量版     | ¥58.00   | 600GB      | 5            | 1000Mbps |
-| 特惠限量专业版 | ¥88.00   | 2400GB     | 20           | 2000Mbps |
-| 专业版         | ¥138.00  | 3600GB     | 20           | 2000Mbps |
+| 特惠限量版     | ¥88.00   | 600GB      | 5            | 1000Mbps |
+| 特惠限量专业版 | ¥118.00   | 2400GB     | 20           | 2000Mbps |
+| 专业版         | ¥168.00  | 3600GB     | 20           | 2000Mbps |
 
 **套餐选购建议**
 
@@ -201,7 +201,6 @@
 | Premium 流量包 | 大杯 | ¥149.80    | 500GB | 2Gbps | 5 台 | 精品50+  | 否       | 顶配畅用           | ⭐⭐⭐⭐⭐    |
 
 ---
-
 ---
 ## SSRDOG-VPN
 
@@ -1661,7 +1660,7 @@ Riolu.443 [精灵学院](https://nodesilo.org/ji-chang-guide/riolu-official-site
 
 | VPN名称       | 主要特点                                                         | 流媒体解锁          | 线路类型                  | 价格范围（人民币）       | 适用人群                       | 设备支持           | 备注                                   |
 |--------------|----------------------------------------------------------------|---------------------|---------------------------|--------------------------|------------------------------|--------------------|--------------------------------------|
-| [**星云-VPN**](https://user.xxxlsop.com/#/register?code=rgfjkvg)     | 高速稳定，跨境专线，全球30+节点，24小时客服，高性价比，支持8K视频 | ChatGPT、YouTube、Netflix等 | 企业级跨境专线             | 轻量版¥15-高级版¥35/月，年付套餐¥56-¥138 | 预算有限到重度用户             | 自研客户端，操作简单  | 复购率高，适合科研、外贸、科技博主           |
+| [**星云-VPN**](https://user.xxxlsop.com/#/register?code=rgfjkvg)     | 高速稳定，跨境专线，全球30+节点，24小时客服，高性价比，支持8K视频 | ChatGPT、YouTube、Netflix等 | 企业级跨境专线             | 轻量版¥18-高级版¥68/月，年付套餐¥56-¥138 | 预算有限到重度用户             | 自研客户端，操作简单  | 复购率高，适合科研、外贸、科技博主           |
 | 千速喵-VPN   | IEPL/IPLC专线，游戏专线，低延迟，高性价比流量套餐                 | Netflix、迪士尼等       | IPLC/IEPL专线              | 月付¥13.88-¥31.88，年付¥138-¥310 | 入门到高端用户                 | 多官网入口支持        | 支持4K视频，优惠码可用                   |
 | xgcloud-VPN  | BGP隧道中转，全球20条线路，支持AI工具解锁，性价比高               | Netflix、HULU、HBO等    | BGP隧道中转+部分专线节点    | 月费¥20-¥100，流量包¥66-¥288   | 轻度到重度用户                 | SS/VMess协议支持     | 部分节点支持ChatGPT、TikTok解锁           |
 | V2free-VPN   | 多运营商优化，强加密，支持多平台，稳定可靠                        | ChatGPT、YouTube、Netflix等 | 多运营商优化                | 试用¥5，月付¥20-¥110，年付¥168-¥2000 | 轻度到企业级用户               | 多平台支持           | 支持TikTok解锁，VIP等级区分               |
@@ -1731,7 +1730,7 @@ Riolu.443 [精灵学院](https://nodesilo.org/ji-chang-guide/riolu-official-site
 ![最新稳定高速VPN推荐：40款性价比翻墙梯子完全指南2](https://github.com/user-attachments/assets/2d7a8019-f63b-4c2a-8c06-b888d6ebf300)
 
 在网络环境中，选择合适的网络连接工具变得日益重要。无论是传统VPN还是专业网络服务，都在不断革新技术，提升用户体验。本报告介绍的40款工具各有特色，覆盖了从高端商务到经济实惠的多种选择，用户可根据自身需求和预算做出明智选择。
-查看更多VPN推荐资讯，请访问以下文章: <a href="https://github.com/John19187/posts/2025-04-13-vpn-guide.html" target="_blank">VPN机场攻略</a> - <a href="https://github.com/John19187/posts/2025-04-09-the-15-best-vpns.html">15款稳定VPN梯子</a> - <a href="https://github.com/John19187/ji-chang-tui-jian" target="_blank">机场汇总推荐</a> - <a href="https://github.com/John19187/The-40-Best-VPNs" target="_blank">稳定高速VPN推荐</a> - <a href="https://github.com/John19187/v2ray-SSR-Clash-Verge-Shadowrocke" target="_blank">免费订阅</a> - <a href="https://nodebest.xyz">翻墙梯子</a> - <a href="https://nodesilo.org" target="_blank">优惠仓库</a>- <a href="https://www.stablevpner.com" target="_blank">稳定VPN</a>- <a href="https://www.jichang8.com" target="_blank">机场8指南</a>
+查看更多VPN推荐资讯，请访问以下文章:  - <a href="https://github.com/John19187/ji-chang-tui-jian" target="_blank">机场汇总推荐</a> - <a href="https://github.com/John19187/The-40-Best-VPNs" target="_blank">稳定高速VPN推荐</a> - <a href="https://github.com/John19187/v2ray-SSR-Clash-Verge-Shadowrocke" target="_blank">免费订阅</a> - <a href="https://nodebest.xyz">翻墙梯子</a> - <a href="https://nodesilo.org" target="_blank">优惠仓库</a>- <a href="https://www.stablevpner.com" target="_blank">稳定VPN</a>- <a href="https://www.jichang8.com" target="_blank">机场8指南</a>
 
 
 值得强调的是，这些工具的主要价值在于提供安全、私密的网络环境和稳定、高速的连接体验。在使用过程中，请务必遵守当地法律法规，保持负责任的网络行为。随着技术的不断进步，我们有理由期待未来会出现更加高效、安全的网络连接解决方案，为全球互联网用户带来更优质的体验。
