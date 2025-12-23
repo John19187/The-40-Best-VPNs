@@ -48,9 +48,9 @@
 
 星云VPN是一家专注于提供高速稳定网络服务的机场VPN，以其出色的稳定性、高速网络和高性价比赢得了广泛好评。
 
-**[星云VPN入口1](https://api.xxxlsop.com/#/register?code=RAsqP5M1)**
+**[星云VPN入口1](https://www.xyfast.xyz/#/register?code=RAsqP5M1)**
 
-**[星云VPN入口2](https://user.xxxlsop.com/#/register?code=RAsqP5M1)**
+**[星云VPN入口2](https://api.xxxlsop.com/#/register?code=RAsqP5M1)**
 
 **[星云VPN入口3](https://www.xxxlsop3.com/#/register?code=RAsqP5M1)**
 
