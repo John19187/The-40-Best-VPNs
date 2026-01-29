@@ -50,9 +50,9 @@
 
 **[星云VPN入口1](https://user.xing-yun-1.com/#/register?code=RAsqP5M1)**
 
-**[星云VPN入口2](https://api.xxxlsop.com/#/register?code=RAsqP5M1)**
+**[星云VPN入口2](https://dash.xyfast.xyz/#/register?code=RAsqP5M1)]**
 
-**[星云VPN入口3](https://www.xxxlsop3.com/#/register?code=RAsqP5M1)**
+**[星云VPN入口3](https://cdn.xxxlsop3.com/#/register?code=RAsqP5M1)**
 
 ![星云-VPN](https://github.com/user-attachments/assets/9eaa9c40-ab38-48ca-8235-209baa40f592)
 <img width="3083" height="962" alt="星云-VPN机场第1张" src="https://github.com/user-attachments/assets/74970cf4-d0f6-4ffb-a348-3312057137ac" />
@@ -61,6 +61,8 @@
 主要特点包括：
 - **76元600GB（约每月 6元）；116元1200GB（约每月 9元）；146元1800GB（约每月 12元）；176元2400GB（约每月 14元）；226元3600GB（约每月 18元）**
 - **流媒体解锁**：支持解锁ChatGPT、YouTube、Netflix等流媒体，提供8K视频观看体验。
+- **AI解锁**：高速访问ChatGPT、Gemini、Claude、Midjourney、Perplexity；Cursor、Codex、Google Antigravity等生产力平台
+- **全球稳定接入**：香港、台湾、日本、韩国、新加坡、泰国、美国、德国、英国、法国、意大利、西班牙、澳大利亚、加拿大、荷兰、瑞典、俄罗斯、哥伦比亚、南非、印度、巴西、墨西哥、印尼、瑞士等
 - **跨境专线**：全域企业级跨境专线，特别是在特殊时期保持稳定，高峰时段网速有保障。
 - **全球覆盖**：节点覆盖30+全球边缘地区，确保用户在不同地区都能获得稳定的连接。
 - **客户服务**：24小时在线客服支持，提供快速响应的技术帮助。
@@ -75,10 +77,7 @@
 ![星云-VPN机场ping](https://github.com/user-attachments/assets/36e07c87-202e-4344-836e-ca536e35b9f1)
 
 ### 套餐详情介绍
-- ✅星云官方公告星云 圣诞 & 元旦限时活动
-- ✅活动时间：即刻起至2026年1月20号23:59 ，支持套餐续费，新购。
-- ✅月付优惠码：8折：xingyun8888
-- ✅年付优惠码：9折：xingyun9999
+
 *✅一次性流量：48元/200G、108元/500G、279元/1500G、438元2600G *
 
 | **套餐类型** | **价格** | **月流量** | **客户端数** | **速率** |
