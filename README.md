@@ -141,7 +141,7 @@
 
 
 
-## [星链云VPN](https://nodesilo.org/ji-chang-guide/starlinkcloud-official-site-coupons-review.html)
+## 星链云VPN
 星链云开业时间-2023/02/21，线路原生支持解锁流媒体，内容包括 Netflix、Disney、HBO、TVB、Happyon、AbemaTV 等在内的多种流媒体视频。
 
 全线路 IEPL 跨境专线出国 1000Mbps峰值速率 入口接入，自建全线路IEPL专线接入保证稳定节点倍率1。Netflix、動畫瘋、HBO、Disney+、等流媒體解鎖，支持UDPN、NginX+TLS、SecureX安全隧道加密協議线路100%匿名。
