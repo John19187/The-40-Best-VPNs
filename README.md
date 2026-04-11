@@ -182,6 +182,38 @@
 
 ---
 
+## WgetCloud VPN
+
+简介：国内多线BGP接入与亚马逊 Global Accelerator 专线加速的双层架构，是 WgetCloud 区别于多数同类机场的技术基底。每组节点承载人数控制在400人以下，香港自营机房提供硬件支撑，晚高峰带宽实测稳定，近距离节点延迟控制在8-22ms。
+<img width="1473" height="814" alt=" WgetCloud VPN 官网首页" src="https://github.com/user-attachments/assets/8c25c307-ae42-42c6-9e25-e06bd299fc44" />
+
+`WgetCloud 基本信息`
+开业时间：2021年（原名 GaCloud）
+线路协议：Trojan等协议
+基础套餐：¥79/月 160GB起
+定制套餐：支持，重度用户可自定义流量与设备数
+流媒体解锁：支持 Netflix 等主流平台
+AI服务解锁：支持 ChatGPT、Gemini 等
+节点分布：香港、台湾、日本、新加坡、美国、英国、德国、加拿大、俄罗斯、澳大利亚、马来西亚等
+客户端：Clash、Shadowrocket 等主流订阅客户端
+增值服务：不停机、竞速场（独立节点链路资源）
+
+**[WgetCloud机场官网入口](https://invite.wgetcloud.ltd/auth/register?code=ANbbJK)**
+
+### 📊 WgetCloud 套餐价格对比表
+
+季付95折，年付8折。
+
+| 项目 | 基础专线 | 优质专线 | 精品专线 |
+|---|---|---|---|
+| 月付 | ¥79 | ¥89 | ¥99 |
+| 月付流量 | 160GB | 180GB | 200GB |
+| 季付 | ¥225 | ¥253 | ¥281 |
+| 季付流量/月 | 230GB | 250GB | 270GB |
+| 年付 | ¥758 | ¥854 | ¥950 |
+| 年付流量/月 | 280GB | 320GB | 360GB |
+| 协议 | Trojan | Trojan | Trojan |
+| 选购建议 | 轻度浏览用户，年付月均约63元 | 远程办公搭配流媒体，均衡之选 | 4K视频或多设备家庭场景 |
 
 
 ## 星链云VPN
