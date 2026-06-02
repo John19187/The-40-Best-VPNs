@@ -1,6 +1,8 @@
 # 2026年最新稳定高速VPN推荐：40款性价比翻墙梯子完全指南
 
-随着网络环境的不断变化，寻找稳定、高速且性价比高的网络访问工具已成为许多用户的刚需。本报告通过对市场上主流VPN和专业网络服务的全面评测，精选了V2free、xgcloud、XSUS机场、YToo（歪兔、三月七、千速喵、哈基米机场、夜煞云、星云、星链、杜卡迪、极客云、次元链接（Cylink、泡泡Dog、海盗云、牧牛云、狗狗加速、红杏VPN、肥猫云、赔钱、轻云、闪电、青云梯、飞鸟、龙猫云等40款优质VPN服务商，旨在为用户提供全面参考。
+翻墙梯子（俗称机场）是按流量与线路质量收费的付费代理订阅服务；与商业 VPN 相比，线路选择更灵活，是国内长期跨境访问的主流方案之一。下面这份指南覆盖 40 余款主流机场，按连接稳定性、速度、性价比、流媒体与 AI 解锁能力综合评测，并每周核对价格与跑路情况，帮你按预算和用途选定。
+
+收录：星云、闪连、Cloud-VPN、WgetCloud、Bitz Net、星链云、SSRDOG、杨帆云、极客云、fastlink、泰山、NiceDuck、奶昔（Nexitally）、CyberGuard、白月光、狗狗加速、闪电、三月七、奶优、轻云、千速喵、青云梯、赔钱、泡泡Dog、牧牛云、Eternal Network、飞鸟、光年梯、龙猫云、CAC Apex、夜煞云、YToo歪兔、肥猫云、xgcloud、V2free、XSUS、TAG、STC-SPADES、SpeedCAT闪电猫、红杏、Riolu精灵学院、Cylink次元链接、Coffee Cloud咖啡云 等。
 
 
 ![最新稳定高速VPN推荐：40款性价比翻墙梯子完全指南1](https://github.com/user-attachments/assets/152ebe84-c517-4fd5-bdb7-ebbcc92877c9)
@@ -48,9 +50,9 @@
 
 星云VPN是一家专注于提供高速稳定网络服务的机场VPN，以其出色的稳定性、高速网络和高性价比赢得了广泛好评。
 
-**[星云VPN入口1](https://user.xing-yun-1.com/#/register?code=RAsqP5M1)**
+**[星云VPN入口1](https://www.xyunonline.com/#/register?code=RAsqP5M1)**
 
-**[星云VPN入口2](https://cloud.xyfast.xyz/#/register?code=RAsqP5M1)]**
+**[星云VPN入口2](https://app.xxxlssop.one/#/register?code=RAsqP5M1)**
 
 **[星云VPN入口3](https://cdn.xxxlsop3.com/#/register?code=RAsqP5M1)**
 
@@ -59,7 +61,7 @@
 
 五一活动优惠码：
 ### 主要特点包括：
-- **五一活动优惠码**：月付9折：xingyun90  年付95折：xingyun95  输入自动折扣。
+- **活动优惠码**：月付95折 年付95折：xingyun95  输入自动折扣。
 - **年付大优惠：76元600GB（约每月 6元）；116元1200GB（约每月 9元）；146元1800GB（约每月12元）；176元2400GB（约每月 14元）；226元3600GB（约每月 18元）**
 - **流媒体解锁**：支持解锁ChatGPT、YouTube、Netflix等流媒体，提供8K视频观看体验。
 - **AI解锁**：高速访问ChatGPT、Gemini、Claude、Midjourney、Perplexity；Cursor、Codex、Google Antigravity等生产力平台
@@ -83,7 +85,7 @@
 
 | **套餐类型** | **价格** | **月流量** | **客户端数** | **速率** |
 | ------------ | -------- | ---------- | ------------ | -------- |
-| 轻量版       | ¥18.00   | 100GB      | 5            | 300Mbps  |
+| 轻量版       | ¥18.00   | 100GB      | 5            | 800Mbps  |
 | 专业版       | ¥38.00   | 300GB      | 8           | 1000Mbps  |
 | 高级版       | ¥58.00   | 500GB      | 20            | 2000Mbps  |
 
@@ -1742,6 +1744,35 @@ Riolu.443 精灵学院是一家2023年开业的翻墙-VPN，-VPN中独一家的S
 
 
 ![image](https://github.com/user-attachments/assets/43ccb656-dde3-4961-8f28-1af01cc7b5f9)
+## Coffee Cloud 咖啡云-VPN
+
+咖啡云（Coffee Cloud）运营多年，主营公网隧道中转，也提供少量 IEPL 专线节点。套餐以咖啡命名，价位整体偏低，具体档位见下方价格表。
+
+协议方面，除常规的 Shadowsocks 与 AnyTLS 外，还提供自研的 V-Ninja；V-Ninja 需导入官方专用客户端才能使用，不想额外装客户端用 Shadowsocks 订阅即可。支付方式为支付宝与 USDT。
+
+**[Coffee Cloud 咖啡云官网入口 »](https://aicoffee.app/#/register?code=yHFZ7aVV)**
+
+<img width="1179" height="722" alt="咖啡云官网截图" src="https://github.com/user-attachments/assets/67c1297f-d1dc-4707-8b1b-7b69963a13e3" />
+
+### 套餐价格表
+
+| 套餐 | 月付 | 流量/月 | 线路 | 协议 |
+| --- | --- | --- | --- | --- |
+| 美式 | ¥10 | 130G | 中转 | SS / AnyTLS / V-Ninja |
+| 进阶（拿铁 / 摩卡等） | ¥20 起 | 300G+ | 中转 + 少量 IEPL | SS / AnyTLS / V-Ninja |
+| 高档 | 约 ¥60 封顶 | 至 1024G | 中转 + IEPL | SS / AnyTLS / V-Ninja |
+
+> 套餐据 surge.best、duangks、润土分享 等多站评测整理；官网当前未直连核验，档位以注册页为准。
+
+**选购建议**
+
+- 日常网页浏览与轻度使用：美式 ¥10 / 130G 即可。
+- 流量需求较大：¥20 / 300G 一档单位流量成本最低。
+- 对游戏、直播延迟敏感：中转线路时延高于专线，此类需求建议优先选择 IEPL / IPLC 专线机场。
+
+中转机场里，咖啡云的低价档性价比突出。预算有限、以日常翻墙为主的用户可优先考虑。
+
+------
 ## VPN推荐列表小结 
 
 | VPN名称       | 主要特点                                                         | 流媒体解锁          | 线路类型                  | 价格范围（人民币）       | 适用人群                       | 设备支持           | 备注                                   |
@@ -1820,8 +1851,8 @@ Riolu.443 精灵学院是一家2023年开业的翻墙-VPN，-VPN中独一家的S
 - 避免在关键工作时段过度依赖这些工具
 ![最新稳定高速VPN推荐：40款性价比翻墙梯子完全指南2](https://github.com/user-attachments/assets/2d7a8019-f63b-4c2a-8c06-b888d6ebf300)
 
-本报告介绍的40款工具各有特色，覆盖了从高端商务到经济实惠的多种选择，用户可根据自身需求和预算做出明智选择。
+以上各款机场覆盖从高端专线到经济实惠各档位，可按自身需求与预算对照选择。
 查看更多VPN推荐资讯，请访问以下文章:  - <a href="https://github.com/John19187/ji-chang-tui-jian" target="_blank">机场汇总推荐</a> - <a href="https://github.com/John19187/The-40-Best-VPNs" target="_blank">稳定高速VPN推荐</a> - <a href="https://github.com/John19187/v2ray-SSR-Clash-Verge-Shadowrocke" target="_blank">免费订阅</a> - [2026最全机场（SSR/V2Ray/Trojan/Clash）科普与选购指南](https://github.com/John19187/ssr-v2ray-trojan-clash-guide) - [高速稳定VPN与翻墙加速器评测与选购攻略！](https://github.com/John19187/vpn-accelerator-guide)
 
 
-值得强调的是，这些工具的主要价值在于提供安全、私密的网络环境和稳定、高速的连接体验。在使用过程中，请务必遵守当地法律法规，保持负责任的网络行为。随着技术的不断进步，我们有理由期待未来会出现更加高效、安全的网络连接解决方案，为全球互联网用户带来更优质的体验。
+使用任何此类工具都应遵守当地法律法规、保持负责任的网络行为；下单前以官网当前套餐与线路为准。此清单每周核对一次，剔除已跑路服务并补入新机场，可收藏后定期回看。
