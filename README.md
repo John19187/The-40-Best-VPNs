@@ -5,7 +5,9 @@
 
 收录：星云、闪连、Cloud-VPN、WgetCloud、Bitz Net、星链云、SSRDOG、杨帆云、极客云、fastlink、泰山、NiceDuck、奶昔（Nexitally）、CyberGuard、白月光、狗狗加速、闪电、三月七、奶优、轻云、千速喵、青云梯、赔钱、泡泡Dog、牧牛云、Eternal Network、飞鸟、光年梯、龙猫云、CAC Apex、夜煞云、YToo歪兔、肥猫云、xgcloud、V2free、XSUS、TAG、STC-SPADES、SpeedCAT闪电猫、红杏、Riolu精灵学院、Cylink次元链接、Coffee Cloud咖啡云 等。
 
-<img  alt="ji-chang-banner" src="https://github.com/user-attachments/assets/28cb67ad-809e-4e8d-8030-c2b82e64b041" />
+<img alt="vpn-banner" src="https://github.com/user-attachments/assets/febe6cb4-75d7-4e9d-bc18-dfc8c46b3b1c" />
+
+
 
 ### 评选标准与方法论
 
