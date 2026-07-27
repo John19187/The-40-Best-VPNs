@@ -7,7 +7,44 @@
 
 <img alt="vpn-banner" src="https://github.com/user-attachments/assets/febe6cb4-75d7-4e9d-bc18-dfc8c46b3b1c" />
 
+> **最后更新：2026 年 7 月 27 日** · 本次核查了全部 61 条服务商链接的可达性，结果见文末更新日志
 
+<details>
+<summary><b>目录：全部 45 款 · 点击展开</b></summary>
+
+[星云-VPN](#星云-vpn) · [闪连VPN](#闪连vpn) · [Cloud-VPN](#cloud-vpn) · [WgetCloud VPN](#wgetcloud-vpn) · [大哥云-VPN](#大哥云-vpn) · [星链云VPN](#星链云vpn) · [SSRDOG-VPN](#ssrdog-vpn) · [杨帆云vpn](#杨帆云vpn) · [极客云VPN](#极客云vpn) · [fastlink-VPN](#fastlink-vpn) · [Taishan Net 泰山-VPN](#taishan-net-泰山-vpn) · [NiceDuck-VPN](#niceduck-vpn) · [nexitally奶昔-VPN](#nexitally奶昔-vpn) · [CyberGuard-VPN](#cyberguard-vpn) · [bygcloud白月光-VPN](#bygcloud白月光-vpn) · [狗狗加速-VPN](#狗狗加速-vpn) · [闪电-VPN](#闪电-vpn) · [三月七-VPN](#三月七-vpn) · [奶优 NaiU_Net-VPN](#奶优-naiu_net-vpn) · [轻云VPN](#轻云vpn) · [千速喵-VPN](#千速喵-vpn) · [青云梯-VPN](#青云梯-vpn) · [赔钱-VPN](#赔钱-vpn) · [泡泡Dog-VPN](#泡泡dog-vpn) · [牧牛云VPN](#牧牛云vpn) · [Eternal Network-VPN](#eternal-network-vpn) · [FLYINGBIRD飞鸟VPN](#flyingbird飞鸟vpn) · [Bitz Net-VPN](#bitz-net-vpn) · [光年梯vpn](#光年梯vpn) · [龙猫云VPN](#龙猫云vpn) · [CAC Apex-VPN](#cac-apex-vpn) · [夜煞云VPN](#夜煞云vpn) · [YToo（歪兔）-VPN](#ytoo歪兔-vpn) · [肥猫云VPN](#肥猫云vpn) · [xgcloud-VPN](#xgcloud-vpn) · [V2free-VPN](#v2free-vpn) · [XSUS-VPN](#xsus-vpn) · [TAG-VPN](#tag-vpn) · [STC-SPADES-VPN](#stc-spades-vpn) · [SpeedCAT闪电猫-VPN](#speedcat闪电猫-vpn) · [红杏-VPN](#红杏-vpn) · [Riolu 精灵学院-VPN](#riolu-精灵学院-vpn) · [Cylink 次元链接-VPN](#cylink-次元链接-vpn) · [Coffee Cloud 咖啡云-VPN](#coffee-cloud-咖啡云-vpn) · [VPN推荐列表小结](#vpn推荐列表小结)
+
+</details>
+
+
+
+
+## 机场和 VPN 有什么区别，该选哪个
+
+一句话分清：VPN 是一家公司卖你它自己的加密通道，机场是有人把一批代理节点打包成订阅卖你。前者装它的官方 App 就能用，后者要把订阅链接导进 Clash、v2rayN、小火箭这类通用客户端。
+
+区别不在技术名词，在你实际会碰到什么：
+
+| | 商业 VPN | 机场 |
+|---|---|---|
+| 客户端 | 官方 App，装完即用 | 通用客户端，第一次配置要花点时间 |
+| 国内可用性 | 波动大，敏感时期常整体失效 | 看线路，IPLC/IEPL 专线稳得多 |
+| 价格 | 每月 5–12 美元常见 | 每月 20–30 元能拿到同等或更大流量 |
+| 跑路风险 | 低，多是老牌或上市公司 | 高，小机场随时可能消失 |
+| 退款 | 普遍支持 30 天无理由 | 参差，不少只有 Telegram 群可联系 |
+| 付款方式 | 信用卡、PayPal 为主 | 支付宝、微信普遍支持 |
+| 分流控制 | 多数只能全局或按 App | Clash 系规则灵活，可按域名、地区、进程分流 |
+
+按场景对号入座：
+
+- 常住国外，回国偶尔用。选 VPN，省心，退款有保障，不用管节点。
+- 人在国内长期用，要看 4K、打游戏、跑 AI 工具。选机场，而且要专线档，同样的钱能买到高得多的带宽。
+- 要挂在路由器上全屋走。机场更合适，Clash 系客户端的分流规则比大多数 VPN App 强。
+- 对隐私要求高、不能留记录。选有独立第三方审计报告的商业 VPN，机场的日志政策基本无从验证。
+
+还有一种常见做法是两样都留着：机场当主力，VPN 当备份。机场出事的时候不至于完全断网，考虑到上面那个跑路概率，这笔备份钱通常花得值。
+
+各家机场的横向对比在[机场推荐清单](https://github.com/John19187/ji-chang-tui-jian)，里面也写了机场突然连不上时该怎么判断和自救。
 
 ### 评选标准与方法论
 
@@ -1893,6 +1930,14 @@ Riolu.443 精灵学院是一家2023年开业的翻墙-VPN，-VPN中独一家的S
 
 以上各款机场覆盖从高端专线到经济实惠各档位，可按自身需求与预算对照选择。
 查看更多VPN推荐资讯，请访问以下文章:  - <a href="https://github.com/John19187/ji-chang-tui-jian" target="_blank">机场汇总推荐</a> - <a href="https://github.com/John19187/The-40-Best-VPNs" target="_blank">稳定高速VPN推荐</a> - <a href="https://github.com/John19187/v2ray-SSR-Clash-Verge-Shadowrocke" target="_blank">免费订阅</a> - [2026最全机场（SSR/V2Ray/Trojan/Clash）科普与选购指南](https://github.com/John19187/ssr-v2ray-trojan-clash-guide) - [高速稳定VPN与翻墙加速器评测与选购攻略！](https://github.com/John19187/vpn-accelerator-guide)
+
+## 更新日志
+
+- 2026-07-27　全量核查 61 条服务商链接可达性，6 条访问不到；逐条追查后 3 家为更换域名、2 家已停运或转手
+- 2026-07-19　星云 VPN 更换官网域名，链接已同步
+- 2026-07-07　新增大哥云-VPN；Bitz Net 版位调整
+- 2026-06-24　杨帆云、SSRDOG、Bitz Net 更换官网域名，链接已同步
+- 2026-06-03　新增 Coffee Cloud 咖啡云-VPN
 
 使用任何此类工具都应遵守当地法律法规、保持负责任的网络行为；下单前以官网当前套餐与线路为准。此清单每周核对一次，剔除已跑路服务并补入新机场，可收藏后定期回看。
 
