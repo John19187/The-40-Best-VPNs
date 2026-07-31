@@ -10,9 +10,9 @@
 > **最后更新：2026 年 7 月 27 日** · 本次核查了全部 61 条服务商链接的可达性，结果见文末更新日志
 
 <details>
-<summary><b>目录：全部 47 款 · 点击展开</b></summary>
+<summary><b>目录：全部 46 款 · 点击展开</b></summary>
 
-[机场和 VPN 有什么区别，该选哪个](#机场和-vpn-有什么区别该选哪个) · [星云-VPN](#星云-vpn) · [闪连VPN](#闪连vpn) · [Cloud-VPN](#cloud-vpn) · [杨帆云vpn](#杨帆云vpn) · [WgetCloud VPN](#wgetcloud-vpn) · [大哥云-VPN](#大哥云-vpn) · [星链云VPN](#星链云vpn) · [极客云VPN](#极客云vpn) · [fastlink-VPN](#fastlink-vpn) · [Taishan Net 泰山-VPN](#taishan-net-泰山-vpn) · [疾风云-VPN](#疾风云-vpn) · [尔湾云-VPN](#尔湾云-vpn) · [九霄云-VPN](#九霄云-vpn) · [SSRDOG-VPN](#ssrdog-vpn) · [NiceDuck-VPN](#niceduck-vpn) · [nexitally奶昔-VPN](#nexitally奶昔-vpn) · [CyberGuard-VPN](#cyberguard-vpn) · [bygcloud白月光-VPN](#bygcloud白月光-vpn) · [狗狗加速-VPN](#狗狗加速-vpn) · [闪电-VPN](#闪电-vpn) · [三月七-VPN](#三月七-vpn) · [奶优 NaiU_Net-VPN](#奶优-naiu_net-vpn) · [轻云VPN](#轻云vpn) · [千速喵-VPN](#千速喵-vpn) · [青云梯-VPN](#青云梯-vpn) · [赔钱-VPN](#赔钱-vpn) · [泡泡Dog-VPN](#泡泡dog-vpn) · [牧牛云VPN](#牧牛云vpn) · [Eternal Network-VPN](#eternal-network-vpn) · [FLYINGBIRD飞鸟VPN](#flyingbird飞鸟vpn) · [Bitz Net-VPN](#bitz-net-vpn) · [光年梯vpn](#光年梯vpn) · [龙猫云VPN](#龙猫云vpn) · [CAC Apex-VPN](#cac-apex-vpn) · [夜煞云VPN](#夜煞云vpn) · [YToo（歪兔）-VPN](#ytoo歪兔-vpn) · [肥猫云VPN](#肥猫云vpn) · [xgcloud-VPN](#xgcloud-vpn) · [V2free-VPN](#v2free-vpn) · [XSUS-VPN](#xsus-vpn) · [TAG-VPN](#tag-vpn) · [STC-SPADES-VPN](#stc-spades-vpn) · [SpeedCAT闪电猫-VPN](#speedcat闪电猫-vpn) · [红杏-VPN](#红杏-vpn) · [Riolu 精灵学院-VPN](#riolu-精灵学院-vpn) · [Cylink 次元链接-VPN](#cylink-次元链接-vpn) · [Coffee Cloud 咖啡云-VPN](#coffee-cloud-咖啡云-vpn) · [VPN推荐列表小结](#vpn推荐列表小结) · [更新日志](#更新日志)
+[机场和 VPN 有什么区别，该选哪个](#机场和-vpn-有什么区别该选哪个) · [星云-VPN](#星云-vpn) · [闪连VPN](#闪连vpn) · [Cloud-VPN](#cloud-vpn) · [杨帆云vpn](#杨帆云vpn) · [WgetCloud VPN](#wgetcloud-vpn) · [大哥云-VPN](#大哥云-vpn) · [星链云VPN](#星链云vpn) · [极客云VPN](#极客云vpn) · [Taishan Net 泰山-VPN](#taishan-net-泰山-vpn) · [疾风云-VPN](#疾风云-vpn) · [尔湾云-VPN](#尔湾云-vpn) · [九霄云-VPN](#九霄云-vpn) · [SSRDOG-VPN](#ssrdog-vpn) · [NiceDuck-VPN](#niceduck-vpn) · [nexitally奶昔-VPN](#nexitally奶昔-vpn) · [CyberGuard-VPN](#cyberguard-vpn) · [bygcloud白月光-VPN](#bygcloud白月光-vpn) · [狗狗加速-VPN](#狗狗加速-vpn) · [闪电-VPN](#闪电-vpn) · [三月七-VPN](#三月七-vpn) · [奶优 NaiU_Net-VPN](#奶优-naiu_net-vpn) · [轻云VPN](#轻云vpn) · [千速喵-VPN](#千速喵-vpn) · [青云梯-VPN](#青云梯-vpn) · [赔钱-VPN](#赔钱-vpn) · [泡泡Dog-VPN](#泡泡dog-vpn) · [牧牛云VPN](#牧牛云vpn) · [Eternal Network-VPN](#eternal-network-vpn) · [FLYINGBIRD飞鸟VPN](#flyingbird飞鸟vpn) · [Bitz Net-VPN](#bitz-net-vpn) · [光年梯vpn](#光年梯vpn) · [龙猫云VPN](#龙猫云vpn) · [CAC Apex-VPN](#cac-apex-vpn) · [夜煞云VPN](#夜煞云vpn) · [YToo（歪兔）-VPN](#ytoo歪兔-vpn) · [肥猫云VPN](#肥猫云vpn) · [xgcloud-VPN](#xgcloud-vpn) · [V2free-VPN](#v2free-vpn) · [XSUS-VPN](#xsus-vpn) · [TAG-VPN](#tag-vpn) · [STC-SPADES-VPN](#stc-spades-vpn) · [SpeedCAT闪电猫-VPN](#speedcat闪电猫-vpn) · [红杏-VPN](#红杏-vpn) · [Riolu 精灵学院-VPN](#riolu-精灵学院-vpn) · [Cylink 次元链接-VPN](#cylink-次元链接-vpn) · [Coffee Cloud 咖啡云-VPN](#coffee-cloud-咖啡云-vpn) · [VPN推荐列表小结](#vpn推荐列表小结) · [更新日志](#更新日志)
 
 </details>
 
@@ -405,42 +405,6 @@ AI服务解锁：支持 ChatGPT、Gemini 等
 - **多协议支持**：适应不同网络环境。
 - **流媒体解锁支持**：满足多种流媒体需求。
 - **全平台支持**：方便用户使用。
-
-
----
----
-## fastlink-VPN
-FASTLINK承接全球定制服务，全专线接入，定制地区尊享VIP全球加速，独享IP!!!
-
-先购买套餐再订阅！ 先购买套餐再订阅！先购买套餐再订阅！
-苹果手机用户请注意，自己准备一个国外苹果账号下载shadowrocket，本站不再提供共享账号了
-Fastlink目前协议支持SS和VMESS。按照教程推荐的默认客户端使用即可。
-
-支付方式支持支付宝和微信。
-
-👉 **[fastlink-VPN官网注册入口](https://so.dianlanla.com/fastlink)**
-
-
-
-
-
-###  套餐详情介绍📡🚀 
-
-**核心避坑提示**：
-1. 存在**流量倍率消耗**（BGP 3倍扣费，IPLC 1.5倍扣费，福利节点 0.1倍扣费）。
-2. 账面流量 ≠ 实际可用流量。下表“预估可用流量”统一按常用的 IPLC（1.5倍率）折算。
-3. 流量包（5元~700元）单价极差，**切勿养成依赖流量包的习惯**，不够用直接次月升档。
-
-#### 📊 核心套餐决策矩阵
-
-| 套餐梯队 | 账面资费 | 面板流量/期 | 真实可用预估 (按1.5倍率) | 每GB均价 (元) | 💡 核心推荐理由与购买决策 |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| **特价年付** | **¥90 / 年** | 50GB / 月 | 约 **33GB** / 月 | **0.15** (极优) | ⭐ **强烈推荐**。全系性价比之王。最适合只刷网页、用 ChatGPT 的纯文本/轻量用户，利用 0.1 倍率福利节点可将价值放大 10 倍。 |
-| **基础版** | ¥20 / 月 | 100GB / 月 | 约 66GB / 月 | 0.20 (极差) | ❌ **不推荐**。处于价格与流量的尴尬区间，性价比完全被年付套餐碾压，毫无购买价值。 |
-| **加强版** | ¥40 / 月 | 200GB / 月 | 约 133GB / 月 | 0.20 (极差) | ⚠️ **按需购买**。勉强满足单人每天 1-2 小时 1080P/4K 流媒体（YouTube/Netflix）需求。 |
-| **专业版** | ¥80 / 月 | 500GB / 月 | 约 333GB / 月 | 0.16 (良) | ✅ **重度推荐**。适合重度 4K 流媒体重度依赖者、多设备（电视/主机/手机）同时在线的高频用户。 |
-| **至尊版** | ¥150 / 月 | 1000GB / 月| 约 666GB / 月 | 0.15 (极优) | 💼 **团队专供**。单价回归最优解。仅推荐小型工作室、跨境电商团队合资购买。 |
-| **流量包** | 阶梯价 | 25G ~ 5000G | 视倍率而定 | 0.14~0.20 | ⛔ **仅限救急**。流量单价未因大额购买（如700元档）产生质变。仅建议在账单日倒数 3 天内且急需时，购买 5元/10元 最低档保底。 |
 
 
 ---
