@@ -1,0 +1,375 @@
+schema_version: 1
+updated_at: "2026-08-01"
+disclosure:
+  redirect_domain: so.dianlanla.com
+  status: owner_confirmation_required
+
+providers:
+  - id: xingyun
+    name: 星云-VPN
+    source_heading: 星云-VPN
+    url: https://so.dianlanla.com/xingyun
+    status: unknown
+    last_reviewed: null
+    testing_status: not_tested
+    commercial_relationship: undisclosed
+  - id: shanlian
+    name: 闪连VPN
+    source_heading: 闪连VPN
+    url: https://so.dianlanla.com/shanlian
+    status: unknown
+    last_reviewed: null
+    testing_status: not_tested
+    commercial_relationship: undisclosed
+  - id: cloud-vpn
+    name: Cloud-VPN
+    source_heading: Cloud-VPN
+    url: https://so.dianlanla.com/wcloudvpn
+    status: unknown
+    last_reviewed: null
+    testing_status: not_tested
+    commercial_relationship: undisclosed
+  - id: yangfan
+    name: 杨帆云vpn
+    source_heading: 杨帆云vpn
+    url: https://so.dianlanla.com/yangfan
+    status: unknown
+    last_reviewed: null
+    testing_status: not_tested
+    commercial_relationship: undisclosed
+  - id: wgetcloud
+    name: WgetCloud VPN
+    source_heading: WgetCloud VPN
+    url: https://so.dianlanla.com/wgetcloud
+    status: unknown
+    last_reviewed: null
+    testing_status: not_tested
+    commercial_relationship: undisclosed
+  - id: dageyun
+    name: 大哥云-VPN
+    source_heading: 大哥云-VPN
+    url: https://so.dianlanla.com/dageyun
+    status: unknown
+    last_reviewed: null
+    testing_status: not_tested
+    commercial_relationship: undisclosed
+  - id: xinglian
+    name: 星链云VPN
+    source_heading: 星链云VPN
+    url: https://so.dianlanla.com/xinglian
+    status: unknown
+    last_reviewed: null
+    testing_status: not_tested
+    commercial_relationship: undisclosed
+  - id: jikeyun
+    name: 极客云VPN
+    source_heading: 极客云VPN
+    url: https://so.dianlanla.com/jikeyun
+    status: unknown
+    last_reviewed: null
+    testing_status: not_tested
+    commercial_relationship: undisclosed
+  - id: taishan-net
+    name: Taishan Net 泰山-VPN
+    source_heading: Taishan Net 泰山-VPN
+    url: https://so.dianlanla.com/taishan
+    status: unknown
+    last_reviewed: null
+    testing_status: not_tested
+    commercial_relationship: undisclosed
+  - id: jifeng
+    name: 疾风云-VPN
+    source_heading: 疾风云-VPN
+    url: https://so.dianlanla.com/jifeng
+    status: unknown
+    last_reviewed: null
+    testing_status: not_tested
+    commercial_relationship: undisclosed
+  - id: erwan
+    name: 尔湾云-VPN
+    source_heading: 尔湾云-VPN
+    url: https://so.dianlanla.com/erwan
+    status: unknown
+    last_reviewed: null
+    testing_status: not_tested
+    commercial_relationship: undisclosed
+  - id: jiuxiao
+    name: 九霄云-VPN
+    source_heading: 九霄云-VPN
+    url: https://so.dianlanla.com/jiuxiao
+    status: unknown
+    last_reviewed: null
+    testing_status: not_tested
+    commercial_relationship: undisclosed
+  - id: ssrdog
+    name: SSRDOG-VPN
+    source_heading: SSRDOG-VPN
+    url: https://so.dianlanla.com/ssrdog
+    status: unknown
+    last_reviewed: null
+    testing_status: not_tested
+    commercial_relationship: undisclosed
+  - id: niceduck
+    name: NiceDuck-VPN
+    source_heading: NiceDuck-VPN
+    url: https://so.dianlanla.com/niceduck
+    status: unknown
+    last_reviewed: null
+    testing_status: not_tested
+    commercial_relationship: undisclosed
+  - id: nexitally
+    name: nexitally奶昔-VPN
+    source_heading: nexitally奶昔-VPN
+    url: https://so.dianlanla.com/nexitally
+    status: unknown
+    last_reviewed: null
+    testing_status: not_tested
+    commercial_relationship: undisclosed
+  - id: cyberguard
+    name: CyberGuard-VPN
+    source_heading: CyberGuard-VPN
+    url: https://so.dianlanla.com/cyberguard
+    status: unknown
+    last_reviewed: null
+    testing_status: not_tested
+    commercial_relationship: undisclosed
+  - id: bygcloud
+    name: bygcloud白月光-VPN
+    source_heading: bygcloud白月光-VPN
+    url: https://so.dianlanla.com/bygcloud
+    status: unknown
+    last_reviewed: null
+    testing_status: not_tested
+    commercial_relationship: undisclosed
+  - id: gougoujiasu
+    name: 狗狗加速-VPN
+    source_heading: 狗狗加速-VPN
+    url: https://so.dianlanla.com/gougoujisu
+    status: unknown
+    last_reviewed: null
+    testing_status: not_tested
+    commercial_relationship: undisclosed
+  - id: shandian
+    name: 闪电-VPN
+    source_heading: 闪电-VPN
+    url: https://so.dianlanla.com/shandian
+    status: unknown
+    last_reviewed: null
+    testing_status: not_tested
+    commercial_relationship: undisclosed
+  - id: sanyueqi
+    name: 三月七-VPN
+    source_heading: 三月七-VPN
+    url: https://so.dianlanla.com/sanyueqi
+    status: unknown
+    last_reviewed: null
+    testing_status: not_tested
+    commercial_relationship: undisclosed
+  - id: naiyou
+    name: 奶优 NaiU_Net-VPN
+    source_heading: 奶优 NaiU_Net-VPN
+    url: https://so.dianlanla.com/naiyou
+    status: unknown
+    last_reviewed: null
+    testing_status: not_tested
+    commercial_relationship: undisclosed
+  - id: qingyun
+    name: 轻云VPN
+    source_heading: 轻云VPN
+    url: https://so.dianlanla.com/qingyun
+    status: unknown
+    last_reviewed: null
+    testing_status: not_tested
+    commercial_relationship: undisclosed
+  - id: qiansumiao
+    name: 千速喵-VPN
+    source_heading: 千速喵-VPN
+    url: null
+    status: unknown
+    last_reviewed: null
+    testing_status: not_tested
+    commercial_relationship: undisclosed
+  - id: qingyunti
+    name: 青云梯-VPN
+    source_heading: 青云梯-VPN
+    url: null
+    status: unknown
+    last_reviewed: null
+    testing_status: not_tested
+    commercial_relationship: undisclosed
+  - id: peiqian
+    name: 赔钱-VPN
+    source_heading: 赔钱-VPN
+    url: https://so.dianlanla.com/peiqian
+    status: unknown
+    last_reviewed: null
+    testing_status: not_tested
+    commercial_relationship: undisclosed
+  - id: paopao-dog
+    name: 泡泡Dog-VPN
+    source_heading: 泡泡Dog-VPN
+    url: https://so.dianlanla.com/paopaodog
+    status: unknown
+    last_reviewed: null
+    testing_status: not_tested
+    commercial_relationship: undisclosed
+  - id: muniuyun
+    name: 牧牛云VPN
+    source_heading: 牧牛云VPN
+    url: null
+    status: unknown
+    last_reviewed: null
+    testing_status: not_tested
+    commercial_relationship: undisclosed
+  - id: eternal-network
+    name: Eternal Network-VPN
+    source_heading: Eternal Network-VPN
+    url: https://so.dianlanla.com/eternal
+    status: unknown
+    last_reviewed: null
+    testing_status: not_tested
+    commercial_relationship: undisclosed
+  - id: flyingbird
+    name: FLYINGBIRD飞鸟VPN
+    source_heading: FLYINGBIRD飞鸟VPN
+    url: https://so.dianlanla.com/flyingbird
+    status: unknown
+    last_reviewed: null
+    testing_status: not_tested
+    commercial_relationship: undisclosed
+  - id: bitz-net
+    name: Bitz Net-VPN
+    source_heading: Bitz Net-VPN
+    url: https://so.dianlanla.com/bitznet
+    status: unknown
+    last_reviewed: null
+    testing_status: not_tested
+    commercial_relationship: undisclosed
+  - id: guangnianti
+    name: 光年梯vpn
+    source_heading: 光年梯vpn
+    url: https://so.dianlanla.com/guangnianti
+    status: unknown
+    last_reviewed: null
+    testing_status: not_tested
+    commercial_relationship: undisclosed
+  - id: longmaoyun
+    name: 龙猫云VPN
+    source_heading: 龙猫云VPN
+    url: https://so.dianlanla.com/longmaoyun
+    status: unknown
+    last_reviewed: null
+    testing_status: not_tested
+    commercial_relationship: undisclosed
+  - id: cac-apex
+    name: CAC Apex-VPN
+    source_heading: CAC Apex-VPN
+    url: https://so.dianlanla.com/cacapex
+    status: unknown
+    last_reviewed: null
+    testing_status: not_tested
+    commercial_relationship: undisclosed
+  - id: yeshayun
+    name: 夜煞云VPN
+    source_heading: 夜煞云VPN
+    url: https://so.dianlanla.com/yeshayun
+    status: unknown
+    last_reviewed: null
+    testing_status: not_tested
+    commercial_relationship: undisclosed
+  - id: ytoo
+    name: YToo（歪兔）-VPN
+    source_heading: YToo（歪兔）-VPN
+    url: null
+    status: unknown
+    last_reviewed: null
+    testing_status: not_tested
+    commercial_relationship: undisclosed
+  - id: feimaoyun
+    name: 肥猫云VPN
+    source_heading: 肥猫云VPN
+    url: https://so.dianlanla.com/feimaoyun
+    status: unknown
+    last_reviewed: null
+    testing_status: not_tested
+    commercial_relationship: undisclosed
+  - id: xgcloud
+    name: xgcloud-VPN
+    source_heading: xgcloud-VPN
+    url: https://so.dianlanla.com/xgcloud
+    status: unknown
+    last_reviewed: null
+    testing_status: not_tested
+    commercial_relationship: undisclosed
+  - id: v2free
+    name: V2free-VPN
+    source_heading: V2free-VPN
+    url: null
+    status: unknown
+    last_reviewed: null
+    testing_status: not_tested
+    commercial_relationship: undisclosed
+  - id: xsus
+    name: XSUS-VPN
+    source_heading: XSUS-VPN
+    url: null
+    status: unknown
+    last_reviewed: null
+    testing_status: not_tested
+    commercial_relationship: undisclosed
+  - id: tag
+    name: TAG-VPN
+    source_heading: TAG-VPN
+    url: https://so.dianlanla.com/tagvpn
+    status: unknown
+    last_reviewed: null
+    testing_status: not_tested
+    commercial_relationship: undisclosed
+  - id: stc-spades
+    name: STC-SPADES-VPN
+    source_heading: STC-SPADES-VPN
+    url: https://so.dianlanla.com/stcspades
+    status: unknown
+    last_reviewed: null
+    testing_status: not_tested
+    commercial_relationship: undisclosed
+  - id: speedcat
+    name: SpeedCAT闪电猫-VPN
+    source_heading: SpeedCAT闪电猫-VPN
+    url: null
+    status: unknown
+    last_reviewed: null
+    testing_status: not_tested
+    commercial_relationship: undisclosed
+  - id: hongxing
+    name: 红杏-VPN
+    source_heading: 红杏-VPN
+    url: https://so.dianlanla.com/hongxing
+    status: unknown
+    last_reviewed: null
+    testing_status: not_tested
+    commercial_relationship: undisclosed
+  - id: riolu
+    name: Riolu 精灵学院-VPN
+    source_heading: Riolu 精灵学院-VPN
+    url: null
+    status: unknown
+    last_reviewed: null
+    testing_status: not_tested
+    commercial_relationship: undisclosed
+  - id: cylink
+    name: Cylink 次元链接-VPN
+    source_heading: Cylink 次元链接-VPN
+    url: null
+    status: unknown
+    last_reviewed: null
+    testing_status: not_tested
+    commercial_relationship: undisclosed
+  - id: coffee-cloud
+    name: Coffee Cloud 咖啡云-VPN
+    source_heading: Coffee Cloud 咖啡云-VPN
+    url: https://so.dianlanla.com/coffeecloud
+    status: unknown
+    last_reviewed: null
+    testing_status: not_tested
+    commercial_relationship: undisclosed

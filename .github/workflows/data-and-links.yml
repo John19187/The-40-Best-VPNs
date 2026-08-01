@@ -1,0 +1,61 @@
+name: Data and link checks
+
+on:
+  pull_request:
+    paths:
+      - "data/**"
+      - "docs/methodology.md"
+      - "scripts/**"
+      - "requirements.txt"
+      - ".github/workflows/data-and-links.yml"
+  push:
+    branches: [main]
+    paths:
+      - "data/**"
+      - "scripts/**"
+      - "requirements.txt"
+  schedule:
+    - cron: "17 3 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: data-and-links-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  validate-and-check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v7
+
+      - name: Set up Python
+        uses: actions/setup-python@v7
+        with:
+          python-version: "3.13"
+          cache: pip
+
+      - name: Install dependencies
+        run: python -m pip install -r requirements.txt
+
+      - name: Validate structured data
+        run: python scripts/validate_data.py
+
+      - name: Check provider links
+        run: >-
+          python scripts/check_links.py
+          --output .artifacts/link-check.json
+          --fail-on-broken
+
+      - name: Upload link report
+        if: always()
+        uses: actions/upload-artifact@v7
+        with:
+          name: provider-link-report
+          path: .artifacts/link-check.json
+          if-no-files-found: warn
+          retention-days: 30
