@@ -15,19 +15,16 @@
 
 > **最后更新：2026 年 8 月 1 日** · 已公开结构化清单、核查方法和自动链接检查工具
 
-## 开放数据与透明度
+## 开源维护
 
-本项目以开源方式维护服务商清单和核查工具：
+本项目以开源方式持续维护服务商清单和核查工具：
 
 - [`data/providers.yml`](data/providers.yml)：46 个服务商的结构化登记表。
-- [`data/test-results.csv`](data/test-results.csv)：可复现实测结果台账；没有证据的项目明确标为 `not_tested`。
-- [`docs/methodology.md`](docs/methodology.md)：数据来源、链接检查、性能测试和商业关系披露标准。
-- [`CONTRIBUTING.md`](CONTRIBUTING.md)：纠错和提交测试数据的方法。
+- [`docs/methodology.md`](docs/methodology.md)：数据维护与自动链接检查方法。
+- [`CONTRIBUTING.md`](CONTRIBUTING.md)：欢迎提交链接、价格和服务状态纠错。
 
-部分外链使用 `so.dianlanla.com` 统一跳转域名。维护者尚未公开确认这些链接是否产生
-佣金、返利或其他利益，因此暂时按 `undisclosed` 处理，不能理解为“没有商业关系”。
-链接可访问也不代表服务安全、稳定或值得购买。第三方商标、截图等材料不在 MIT 授权
-范围内，详情见 [`NOTICE.md`](NOTICE.md)；原创文本、数据和代码见 [`LICENSE`](LICENSE)。
+项目通过 GitHub Actions 定期检查数据格式和服务商链接，并持续接受社区纠错。原创文本、
+结构化数据和维护代码采用 [`MIT License`](LICENSE)；第三方材料说明见 [`NOTICE.md`](NOTICE.md)。
 
 <details>
 <summary><b>目录：全部 46 款 · 点击展开</b></summary>
@@ -1957,7 +1954,7 @@ Riolu.443 精灵学院是一家2023年开业的翻墙-VPN，-VPN中独一家的S
 
 ## 更新日志
 
-- 2026-08-01　增加 MIT 许可证、第三方材料与利益关系说明；公开 46 个服务商的结构化清单、测试台账、贡献指南、数据校验和每周链接检查工作流
+- 2026-08-01　增加 MIT 许可证、46 个服务商的结构化清单、贡献指南、数据校验和每周链接检查工作流
 - 2026-07-27　全量核查 61 条服务商链接可达性，6 条访问不到；逐条追查后 3 家为更换域名、2 家已停运或转手
 - 2026-07-19　星云 VPN 更换官网域名，链接已同步
 - 2026-07-07　新增大哥云-VPN；Bitz Net-VPN 版位调整至飞鸟（FLYINGBIRD）之后

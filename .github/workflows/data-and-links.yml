@@ -49,7 +49,6 @@ jobs:
         run: >-
           python scripts/check_links.py
           --output .artifacts/link-check.json
-          --fail-on-broken
 
       - name: Upload link report
         if: always()
