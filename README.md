@@ -1,6 +1,12 @@
 
 # 稳定高速VPN推荐：40款性价比翻墙梯子完全指南
 
+[![Data and link checks](https://github.com/John19187/The-40-Best-VPNs/actions/workflows/data-and-links.yml/badge.svg)](https://github.com/John19187/The-40-Best-VPNs/actions/workflows/data-and-links.yml)
+[![License: MIT](https://img.shields.io/github/license/John19187/The-40-Best-VPNs)](LICENSE)
+[![Providers](https://img.shields.io/badge/providers-46-blue)](data/providers.yml)
+[![Last commit](https://img.shields.io/github/last-commit/John19187/The-40-Best-VPNs)](https://github.com/John19187/The-40-Best-VPNs/commits/main)
+[![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)](CONTRIBUTING.md)
+
 翻墙梯子（俗称机场）是按流量与线路质量收费的付费代理订阅服务；与商业 VPN 相比，线路选择更灵活，是国内长期跨境访问的主流方案之一。下面这份指南覆盖 40 余款主流机场，按连接稳定性、速度、性价比、流媒体与 AI 解锁能力综合整理，并每周核对价格与跑路情况，帮你按预算和用途选定。
 
 收录：星云、闪连、Cloud-VPN、WgetCloud、大哥云、Bitz Net、星链云、SSRDOG、杨帆云、极客云、fastlink、泰山、NiceDuck、奶昔（Nexitally）、CyberGuard、白月光、狗狗加速、闪电、三月七、奶优、轻云、千速喵、青云梯、赔钱、泡泡Dog、牧牛云、Eternal Network、飞鸟、光年梯、龙猫云、CAC Apex、夜煞云、YToo歪兔、肥猫云、xgcloud、V2free、XSUS、TAG、STC-SPADES、SpeedCAT闪电猫、红杏、Riolu精灵学院、Cylink次元链接、Coffee Cloud咖啡云 等。
