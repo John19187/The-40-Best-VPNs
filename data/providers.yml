@@ -1,184 +1,172 @@
 schema_version: 1
-updated_at: "2026-08-01"
+updated_at: '2026-08-01'
 maintenance: ongoing
 providers:
-  - id: xingyun
-    name: 星云-VPN
-    source_heading: 星云-VPN
-    url: https://so.dianlanla.com/xingyun
-  - id: shanlian
-    name: 闪连VPN
-    source_heading: 闪连VPN
-    url: https://so.dianlanla.com/shanlian
-  - id: cloud-vpn
-    name: Cloud-VPN
-    source_heading: Cloud-VPN
-    url: https://so.dianlanla.com/wcloudvpn
-  - id: yangfan
-    name: 杨帆云vpn
-    source_heading: 杨帆云vpn
-    url: https://so.dianlanla.com/yangfan
-  - id: wgetcloud
-    name: WgetCloud VPN
-    source_heading: WgetCloud VPN
-    url: https://so.dianlanla.com/wgetcloud
-  - id: dageyun
-    name: 大哥云-VPN
-    source_heading: 大哥云-VPN
-    url: https://so.dianlanla.com/dageyun
-  - id: xinglian
-    name: 星链云VPN
-    source_heading: 星链云VPN
-    url: https://so.dianlanla.com/xinglian
-  - id: jikeyun
-    name: 极客云VPN
-    source_heading: 极客云VPN
-    url: https://so.dianlanla.com/jikeyun
-  - id: taishan-net
-    name: Taishan Net 泰山-VPN
-    source_heading: Taishan Net 泰山-VPN
-    url: https://so.dianlanla.com/taishan
-  - id: jifeng
-    name: 疾风云-VPN
-    source_heading: 疾风云-VPN
-    url: https://so.dianlanla.com/jifeng
-  - id: erwan
-    name: 尔湾云-VPN
-    source_heading: 尔湾云-VPN
-    url: https://so.dianlanla.com/erwan
-  - id: jiuxiao
-    name: 九霄云-VPN
-    source_heading: 九霄云-VPN
-    url: https://so.dianlanla.com/jiuxiao
-  - id: ssrdog
-    name: SSRDOG-VPN
-    source_heading: SSRDOG-VPN
-    url: https://so.dianlanla.com/ssrdog
-  - id: niceduck
-    name: NiceDuck-VPN
-    source_heading: NiceDuck-VPN
-    url: https://so.dianlanla.com/niceduck
-  - id: nexitally
-    name: nexitally奶昔-VPN
-    source_heading: nexitally奶昔-VPN
-    url: https://so.dianlanla.com/nexitally
-  - id: cyberguard
-    name: CyberGuard-VPN
-    source_heading: CyberGuard-VPN
-    url: https://so.dianlanla.com/cyberguard
-  - id: bygcloud
-    name: bygcloud白月光-VPN
-    source_heading: bygcloud白月光-VPN
-    url: https://so.dianlanla.com/bygcloud
-  - id: gougoujiasu
-    name: 狗狗加速-VPN
-    source_heading: 狗狗加速-VPN
-    url: https://so.dianlanla.com/gougoujisu
-  - id: shandian
-    name: 闪电-VPN
-    source_heading: 闪电-VPN
-    url: https://so.dianlanla.com/shandian
-  - id: sanyueqi
-    name: 三月七-VPN
-    source_heading: 三月七-VPN
-    url: https://so.dianlanla.com/sanyueqi
-  - id: naiyou
-    name: 奶优 NaiU_Net-VPN
-    source_heading: 奶优 NaiU_Net-VPN
-    url: https://so.dianlanla.com/naiyou
-  - id: qingyun
-    name: 轻云VPN
-    source_heading: 轻云VPN
-    url: https://so.dianlanla.com/qingyun
-  - id: qiansumiao
-    name: 千速喵-VPN
-    source_heading: 千速喵-VPN
-    url: null
-  - id: qingyunti
-    name: 青云梯-VPN
-    source_heading: 青云梯-VPN
-    url: null
-  - id: peiqian
-    name: 赔钱-VPN
-    source_heading: 赔钱-VPN
-    url: https://so.dianlanla.com/peiqian
-  - id: paopao-dog
-    name: 泡泡Dog-VPN
-    source_heading: 泡泡Dog-VPN
-    url: https://so.dianlanla.com/paopaodog
-  - id: muniuyun
-    name: 牧牛云VPN
-    source_heading: 牧牛云VPN
-    url: null
-  - id: eternal-network
-    name: Eternal Network-VPN
-    source_heading: Eternal Network-VPN
-    url: https://so.dianlanla.com/eternal
-  - id: flyingbird
-    name: FLYINGBIRD飞鸟VPN
-    source_heading: FLYINGBIRD飞鸟VPN
-    url: https://so.dianlanla.com/flyingbird
-  - id: bitz-net
-    name: Bitz Net-VPN
-    source_heading: Bitz Net-VPN
-    url: https://so.dianlanla.com/bitznet
-  - id: guangnianti
-    name: 光年梯vpn
-    source_heading: 光年梯vpn
-    url: https://so.dianlanla.com/guangnianti
-  - id: longmaoyun
-    name: 龙猫云VPN
-    source_heading: 龙猫云VPN
-    url: https://so.dianlanla.com/longmaoyun
-  - id: yeshayun
-    name: 夜煞云VPN
-    source_heading: 夜煞云VPN
-    url: https://so.dianlanla.com/yeshayun
-  - id: ytoo
-    name: YToo（歪兔）-VPN
-    source_heading: YToo（歪兔）-VPN
-    url: null
-  - id: feimaoyun
-    name: 肥猫云VPN
-    source_heading: 肥猫云VPN
-    url: https://so.dianlanla.com/feimaoyun
-  - id: xgcloud
-    name: xgcloud-VPN
-    source_heading: xgcloud-VPN
-    url: https://so.dianlanla.com/xgcloud
-  - id: v2free
-    name: V2free-VPN
-    source_heading: V2free-VPN
-    url: null
-  - id: xsus
-    name: XSUS-VPN
-    source_heading: XSUS-VPN
-    url: null
-  - id: tag
-    name: TAG-VPN
-    source_heading: TAG-VPN
-    url: https://so.dianlanla.com/tagvpn
-  - id: stc-spades
-    name: STC-SPADES-VPN
-    source_heading: STC-SPADES-VPN
-    url: https://so.dianlanla.com/stcspades
-  - id: speedcat
-    name: SpeedCAT闪电猫-VPN
-    source_heading: SpeedCAT闪电猫-VPN
-    url: null
-  - id: hongxing
-    name: 红杏-VPN
-    source_heading: 红杏-VPN
-    url: https://so.dianlanla.com/hongxing
-  - id: riolu
-    name: Riolu 精灵学院-VPN
-    source_heading: Riolu 精灵学院-VPN
-    url: null
-  - id: cylink
-    name: Cylink 次元链接-VPN
-    source_heading: Cylink 次元链接-VPN
-    url: null
-  - id: coffee-cloud
-    name: Coffee Cloud 咖啡云-VPN
-    source_heading: Coffee Cloud 咖啡云-VPN
-    url: https://so.dianlanla.com/coffeecloud
+- id: xingyun
+  name: 星云-VPN
+  source_heading: 星云-VPN
+  url: https://so.dianlanla.com/xingyun
+- id: shanlian
+  name: 闪连VPN
+  source_heading: 闪连VPN
+  url: https://so.dianlanla.com/shanlian
+- id: cloud-vpn
+  name: Cloud-VPN
+  source_heading: Cloud-VPN
+  url: https://so.dianlanla.com/wcloudvpn
+- id: yangfan
+  name: 杨帆云vpn
+  source_heading: 杨帆云vpn
+  url: https://so.dianlanla.com/yangfan
+- id: wgetcloud
+  name: WgetCloud VPN
+  source_heading: WgetCloud VPN
+  url: https://so.dianlanla.com/wgetcloud
+- id: dageyun
+  name: 大哥云-VPN
+  source_heading: 大哥云-VPN
+  url: https://so.dianlanla.com/dageyun
+- id: xinglian
+  name: 星链云VPN
+  source_heading: 星链云VPN
+  url: https://so.dianlanla.com/xinglian
+- id: jikeyun
+  name: 极客云VPN
+  source_heading: 极客云VPN
+  url: https://so.dianlanla.com/jikeyun
+- id: gougoujiasu
+  name: 狗狗加速-VPN
+  source_heading: 狗狗加速-VPN
+  url: https://so.dianlanla.com/gougoujisu
+- id: taishan-net
+  name: Taishan Net 泰山-VPN
+  source_heading: Taishan Net 泰山-VPN
+  url: https://jp.taishan.app/register?code=7xY3tNqw
+- id: jifeng
+  name: 疾风云-VPN
+  source_heading: 疾风云-VPN
+  url: https://so.dianlanla.com/jifeng
+- id: erwan
+  name: 尔湾云-VPN
+  source_heading: 尔湾云-VPN
+  url: https://so.dianlanla.com/erwan
+- id: jiuxiao
+  name: 九霄云-VPN
+  source_heading: 九霄云-VPN
+  url: https://so.dianlanla.com/jiuxiao
+- id: niceduck
+  name: NiceDuck-VPN
+  source_heading: NiceDuck-VPN
+  url: https://so.dianlanla.com/niceduck
+- id: cyberguard
+  name: CyberGuard-VPN
+  source_heading: CyberGuard-VPN
+  url: https://so.dianlanla.com/cyberguard
+- id: bygcloud
+  name: bygcloud白月光-VPN
+  source_heading: bygcloud白月光-VPN
+  url: https://so.dianlanla.com/bygcloud
+- id: shandian
+  name: 闪电-VPN
+  source_heading: 闪电-VPN
+  url: https://so.dianlanla.com/shandian
+- id: nexitally
+  name: nexitally奶昔-VPN
+  source_heading: nexitally奶昔-VPN
+  url: https://so.dianlanla.com/nexitally
+- id: sanyueqi
+  name: 三月七-VPN
+  source_heading: 三月七-VPN
+  url: https://so.dianlanla.com/sanyueqi
+- id: naiyou
+  name: 奶优 NaiU_Net-VPN
+  source_heading: 奶优 NaiU_Net-VPN
+  url: https://so.dianlanla.com/naiyou
+- id: qingyun
+  name: 轻云VPN
+  source_heading: 轻云VPN
+  url: https://so.dianlanla.com/qingyun
+- id: qiansumiao
+  name: 千速喵-VPN
+  source_heading: 千速喵-VPN
+  url: null
+- id: qingyunti
+  name: 青云梯-VPN
+  source_heading: 青云梯-VPN
+  url: null
+- id: peiqian
+  name: 赔钱-VPN
+  source_heading: 赔钱-VPN
+  url: https://so.dianlanla.com/peiqian
+- id: paopao-dog
+  name: 泡泡Dog-VPN
+  source_heading: 泡泡Dog-VPN
+  url: https://so.dianlanla.com/paopaodog
+- id: muniuyun
+  name: 牧牛云VPN
+  source_heading: 牧牛云VPN
+  url: null
+- id: eternal-network
+  name: Eternal Network-VPN
+  source_heading: Eternal Network-VPN
+  url: https://so.dianlanla.com/eternal
+- id: flyingbird
+  name: FLYINGBIRD飞鸟VPN
+  source_heading: FLYINGBIRD飞鸟VPN
+  url: https://so.dianlanla.com/flyingbird
+- id: guangnianti
+  name: 光年梯vpn
+  source_heading: 光年梯vpn
+  url: https://so.dianlanla.com/guangnianti
+- id: longmaoyun
+  name: 龙猫云VPN
+  source_heading: 龙猫云VPN
+  url: https://so.dianlanla.com/longmaoyun
+- id: yeshayun
+  name: 夜煞云VPN
+  source_heading: 夜煞云VPN
+  url: https://so.dianlanla.com/yeshayun
+- id: ytoo
+  name: YToo（歪兔）-VPN
+  source_heading: YToo（歪兔）-VPN
+  url: null
+- id: xgcloud
+  name: xgcloud-VPN
+  source_heading: xgcloud-VPN
+  url: https://so.dianlanla.com/xgcloud
+- id: v2free
+  name: V2free-VPN
+  source_heading: V2free-VPN
+  url: null
+- id: xsus
+  name: XSUS-VPN
+  source_heading: XSUS-VPN
+  url: https://xsus.cloud/register?code=H6OS035S
+- id: tag
+  name: TAG-VPN
+  source_heading: TAG-VPN
+  url: https://so.dianlanla.com/tagvpn
+- id: stc-spades
+  name: STC-SPADES-VPN
+  source_heading: STC-SPADES-VPN
+  url: https://so.dianlanla.com/stcspades
+- id: speedcat
+  name: SpeedCAT闪电猫-VPN
+  source_heading: SpeedCAT闪电猫-VPN
+  url: null
+- id: hongxing
+  name: 红杏-VPN
+  source_heading: 红杏-VPN
+  url: https://so.dianlanla.com/hongxing
+- id: riolu
+  name: Riolu 精灵学院-VPN
+  source_heading: Riolu 精灵学院-VPN
+  url: null
+- id: coffee-cloud
+  name: Coffee Cloud 咖啡云-VPN
+  source_heading: Coffee Cloud 咖啡云-VPN
+  url: https://so.dianlanla.com/coffeecloud
+- id: mitu
+  name: 咪兔 Mitu-VPN
+  source_heading: 咪兔 Mitu-VPN
+  url: https://bibi.metu.dev/register?code=2zmvhQsZ
