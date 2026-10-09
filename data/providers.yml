@@ -170,3 +170,7 @@ providers:
   name: 咪兔 Mitu-VPN
   source_heading: 咪兔 Mitu-VPN
   url: https://bibi.metu.dev/register?code=2zmvhQsZ
+- id: frogleap
+  name: FrogLeap-VPN
+  source_heading: FrogLeap-VPN
+  url: https://fastergamer.click
