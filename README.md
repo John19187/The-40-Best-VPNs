@@ -3,13 +3,13 @@
 
 [![Data and link checks](https://github.com/John19187/The-40-Best-VPNs/actions/workflows/data-and-links.yml/badge.svg)](https://github.com/John19187/The-40-Best-VPNs/actions/workflows/data-and-links.yml)
 [![License: MIT](https://img.shields.io/github/license/John19187/The-40-Best-VPNs)](LICENSE)
-[![Providers](https://img.shields.io/badge/providers-42-blue)](data/providers.yml)
+[![Providers](https://img.shields.io/badge/providers-44-blue)](data/providers.yml)
 [![Last commit](https://img.shields.io/github/last-commit/John19187/The-40-Best-VPNs)](https://github.com/John19187/The-40-Best-VPNs/commits/main)
 [![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)](CONTRIBUTING.md)
 
-翻墙梯子（俗称机场）是按流量与线路质量收费的付费代理订阅服务；与商业 VPN 相比，线路选择更灵活，是国内长期跨境访问的主流方案之一。下面这份指南覆盖 40 余款主流机场，按连接稳定性、速度、性价比、流媒体与 AI 解锁能力综合整理，并按已核验资料补充价格与服务状态，帮你按预算和用途选定。
+翻墙梯子（俗称机场）通常提供按流量与线路分档的代理订阅，配置方式和服务边界与商业VPN不同。下面整理40余款服务的套餐与使用资料，帮助你比较预算、客户端、付款周期和用途；可按自己的使用场景对照选择。
 
-收录：星云、闪连、Cloud-VPN、WgetCloud、大哥云、星链云、杨帆云、极客云、狗狗加速、fastlink、泰山、NiceDuck、CyberGuard、白月光、闪电、奶昔（Nexitally）、三月七、奶优、轻云、千速喵、青云梯、赔钱、泡泡Dog、牧牛云、Eternal Network、飞鸟、光年梯、龙猫云、夜煞云、YToo歪兔、xgcloud、V2free、XSUS、TAG、STC-SPADES、SpeedCAT闪电猫、红杏、Riolu精灵学院、Coffee Cloud咖啡云 等、咪兔 Mitu-VPN。
+收录：星云、闪连、Cloud-VPN、WgetCloud、大哥云、星链云、杨帆云、极客云、狗狗加速、fastlink、泰山、NiceDuck、CyberGuard、白月光、闪电、奶昔（Nexitally）、三月七、奶优、轻云、千速喵、青云梯、赔钱、泡泡Dog、牧牛云、Eternal Network、飞鸟、光年梯、龙猫云、夜煞云、YToo歪兔、xgcloud、V2free、XSUS、TAG、STC-SPADES、SpeedCAT闪电猫、红杏、Riolu精灵学院、Coffee Cloud咖啡云 等、咪兔 Mitu-VPN、红杏云、oixcloud。
 
 <img alt="vpn-banner" src="https://github.com/user-attachments/assets/febe6cb4-75d7-4e9d-bc18-dfc8c46b3b1c" />
 
@@ -17,7 +17,7 @@
 
 本项目以开源方式持续维护服务商清单和核查工具：
 
-- [`data/providers.yml`](data/providers.yml)：42 个服务商的结构化登记表。
+- [`data/providers.yml`](data/providers.yml)：44 个服务商的结构化登记表。
 - [`docs/methodology.md`](docs/methodology.md)：数据维护与自动链接检查方法。
 - [`CONTRIBUTING.md`](CONTRIBUTING.md)：欢迎提交链接、价格和服务状态纠错。
 
@@ -25,9 +25,9 @@
 结构化数据和维护代码采用 [`MIT License`](LICENSE)；第三方材料说明见 [`NOTICE.md`](NOTICE.md)。
 
 <details>
-<summary><b>目录：全部 42 款 · 点击展开</b></summary>
+<summary><b>目录：全部 44 款 · 点击展开</b></summary>
 
-[机场和 VPN 有什么区别，该选哪个](#机场和-vpn-有什么区别该选哪个) · [星云-VPN](#星云-vpn) · [闪连VPN](#闪连vpn) · [Cloud-VPN](#cloud-vpn) · [杨帆云vpn](#杨帆云vpn) · [WgetCloud VPN](#wgetcloud-vpn) · [大哥云-VPN](#大哥云-vpn) · [星链云VPN](#星链云vpn) · [极客云VPN](#极客云vpn) · [狗狗加速-VPN](#狗狗加速-vpn) · [Taishan Net 泰山-VPN](#taishan-net-泰山-vpn) · [疾风云-VPN](#疾风云-vpn) · [尔湾云-VPN](#尔湾云-vpn) · [九霄云-VPN](#九霄云-vpn) · [NiceDuck-VPN](#niceduck-vpn) · [CyberGuard-VPN](#cyberguard-vpn) · [bygcloud白月光-VPN](#bygcloud白月光-vpn) · [闪电-VPN](#闪电-vpn) · [nexitally奶昔-VPN](#nexitally奶昔-vpn) · [三月七-VPN](#三月七-vpn) · [奶优 NaiU_Net-VPN](#奶优-naiu_net-vpn) · [轻云VPN](#轻云vpn) · [千速喵-VPN](#千速喵-vpn) · [青云梯-VPN](#青云梯-vpn) · [赔钱-VPN](#赔钱-vpn) · [泡泡Dog-VPN](#泡泡dog-vpn) · [牧牛云VPN](#牧牛云vpn) · [Eternal Network-VPN](#eternal-network-vpn) · [FLYINGBIRD飞鸟VPN](#flyingbird飞鸟vpn) · [光年梯vpn](#光年梯vpn) · [龙猫云VPN](#龙猫云vpn) · [夜煞云VPN](#夜煞云vpn) · [YToo（歪兔）-VPN](#ytoo歪兔-vpn) · [xgcloud-VPN](#xgcloud-vpn) · [V2free-VPN](#v2free-vpn) · [XSUS-VPN](#xsus-vpn) · [TAG-VPN](#tag-vpn) · [STC-SPADES-VPN](#stc-spades-vpn) · [SpeedCAT闪电猫-VPN](#speedcat闪电猫-vpn) · [红杏-VPN](#红杏-vpn) · [Riolu 精灵学院-VPN](#riolu-精灵学院-vpn) · [Coffee Cloud 咖啡云-VPN](#coffee-cloud-咖啡云-vpn) · [VPN推荐列表小结](#vpn推荐列表小结) · [更新日志](#更新日志) · [咪兔 Mitu-VPN](#咪兔-mitu-vpn) · [电脑与手机如何选客户端、导入订阅](#电脑与手机如何选客户端导入订阅)
+[机场和 VPN 有什么区别，该选哪个](#机场和-vpn-有什么区别该选哪个) · [星云-VPN](#星云-vpn) · [闪连VPN](#闪连vpn) · [Cloud-VPN](#cloud-vpn) · [杨帆云vpn](#杨帆云vpn) · [WgetCloud VPN](#wgetcloud-vpn) · [大哥云-VPN](#大哥云-vpn) · [星链云VPN](#星链云vpn) · [极客云VPN](#极客云vpn) · [狗狗加速-VPN](#狗狗加速-vpn) · [Taishan Net 泰山-VPN](#taishan-net-泰山-vpn) · [疾风云-VPN](#疾风云-vpn) · [尔湾云-VPN](#尔湾云-vpn) · [九霄云-VPN](#九霄云-vpn) · [NiceDuck-VPN](#niceduck-vpn) · [CyberGuard-VPN](#cyberguard-vpn) · [bygcloud白月光-VPN](#bygcloud白月光-vpn) · [闪电-VPN](#闪电-vpn) · [nexitally奶昔-VPN](#nexitally奶昔-vpn) · [三月七-VPN](#三月七-vpn) · [奶优 NaiU_Net-VPN](#奶优-naiu_net-vpn) · [轻云VPN](#轻云vpn) · [千速喵-VPN](#千速喵-vpn) · [青云梯-VPN](#青云梯-vpn) · [赔钱-VPN](#赔钱-vpn) · [泡泡Dog-VPN](#泡泡dog-vpn) · [牧牛云VPN](#牧牛云vpn) · [Eternal Network-VPN](#eternal-network-vpn) · [FLYINGBIRD飞鸟VPN](#flyingbird飞鸟vpn) · [光年梯vpn](#光年梯vpn) · [龙猫云VPN](#龙猫云vpn) · [夜煞云VPN](#夜煞云vpn) · [YToo（歪兔）-VPN](#ytoo歪兔-vpn) · [xgcloud-VPN](#xgcloud-vpn) · [V2free-VPN](#v2free-vpn) · [XSUS-VPN](#xsus-vpn) · [TAG-VPN](#tag-vpn) · [STC-SPADES-VPN](#stc-spades-vpn) · [SpeedCAT闪电猫-VPN](#speedcat闪电猫-vpn) · [红杏-VPN](#红杏-vpn) · [Riolu 精灵学院-VPN](#riolu-精灵学院-vpn) · [Coffee Cloud 咖啡云-VPN](#coffee-cloud-咖啡云-vpn) · [咪兔 Mitu-VPN](#咪兔-mitu-vpn) · [红杏云](#hongxingyun) · [oixcloud](#oixcloud) · [电脑与手机如何选客户端、导入订阅](#电脑与手机如何选客户端导入订阅) · [VPN推荐列表小结](#vpn推荐列表小结) · [更新日志](#更新日志)
 
 </details>
 
@@ -43,28 +43,27 @@
 | | 商业 VPN | 机场 |
 |---|---|---|
 | 客户端 | 官方 App，装完即用 | 通用客户端，第一次配置要花点时间 |
-| 国内可用性 | 波动大，敏感时期常整体失效 | 看线路，IPLC/IEPL 专线稳得多 |
-| 价格 | 每月 5–12 美元常见 | 每月 20–30 元能拿到同等或更大流量 |
-| 跑路风险 | 低，多是老牌或上市公司 | 高，小机场随时可能消失 |
-| 退款 | 普遍支持 30 天无理由 | 参差，不少只有 Telegram 群可联系 |
+| 国内可用性 | 取决于服务、协议与当地网络 | 取决于节点、线路与当地网络，专线名称不是可用保证 |
+| 价格 | 按具体方案及优惠周期比较 | 同时比较实付周期、配额与节点范围 |
+| 持续运营 | 不能仅凭品牌规模判断 | 不能仅凭开业年限或套餐价格判断 |
+| 退款 | 以服务条款、购买渠道和期限为准 | 部分明确不退款，付款前读本家条款 |
 | 付款方式 | 信用卡、PayPal 为主 | 支付宝、微信普遍支持 |
 | 分流控制 | 多数只能全局或按 App | Clash 系规则灵活，可按域名、地区、进程分流 |
 
 按场景对号入座：
 
-- 常住国外，回国偶尔用。选 VPN，省心，退款有保障，不用管节点。
-- 人在国内长期用，要看 4K、打游戏、跑 AI 工具。选机场，而且要专线档，同样的钱能买到高得多的带宽。
+- 希望使用服务商提供的App。比较商业VPN或有专属客户端的服务，确认目标地区可用与退款条件；用于回国访问时另核对是否提供中国大陆出口。
+- 需要4K视频、游戏或AI工具。比较目标节点的延迟、丢包和平台可用性，不用套餐标称带宽替代自己网络下的结果。
 - 要挂在路由器上全屋走。机场更合适，Clash 系客户端的分流规则比大多数 VPN App 强。
 - 对隐私要求高、不能留记录。选有独立第三方审计报告的商业 VPN，机场的日志政策基本无从验证。
 
-还有一种常见做法是两样都留着：机场当主力，VPN 当备份。机场出事的时候不至于完全断网，考虑到上面那个跑路概率，这笔备份钱通常花得值。
+如果持续连接对工作很重要，可评估独立备用服务及额外成本；两个品牌也可能共用上游线路，不能把买两份订阅理解成必然容灾。
 
 各家机场的横向对比在[机场推荐清单](https://github.com/John19187/ji-chang-tui-jian)，里面也写了机场突然连不上时该怎么判断和自救。
 
 ### 评选标准与方法论
 
-本清单在整理这些工具时，主要考量以下因素。服务商宣传与独立实测必须分开记录；
-没有可复现证据的性能、隐私或解锁说法不视为实测结论。完整规则见
+选择时可从稳定性、速度、套餐与技术支持等方面比较。完整方法见
 [`docs/methodology.md`](docs/methodology.md)。
 
 
@@ -110,7 +109,7 @@
 
 ![星云首页公告入口，截图于2026-09-15，公告自身日期为2025-09-24](https://raw.githubusercontent.com/John19187/The-40-Best-VPNs/main/assets/20260916/PROVIDER.XINGYUN.EVIDENCE.OVERVIEW.0004.webp)
 
-*图示公告入口，不包含展开后的正文；客户端要求依据2026-09-07保留的公告内容。*
+*星云官网公告与客户端下载入口。*
 
 
 星云VPN是一家专注于提供高速稳定网络服务的机场VPN，以其出色的稳定性、高速网络和高性价比赢得了广泛好评。
@@ -136,7 +135,7 @@
 
 - **私密性强**：提供高速、私密的网络服务，适合外贸公司、科研人员和科技博主等用户。
 
-- **客户端支持**：自研专属客户端，操作简单，适合新手用户使用。
+- **客户端支持**：自研专属客户端，操作简单，适合新手用户使用。目前仅支持官方专属客户端，不再提供用于Clash、Shadowrocket等第三方客户端的订阅链接。
 ![星云-VPN机场ping](https://github.com/user-attachments/assets/36e07c87-202e-4344-836e-ca536e35b9f1)
 
 ### 套餐详情介绍
@@ -278,6 +277,7 @@
 
 ## WgetCloud VPN
 
+
 简介：国内多线BGP接入与亚马逊 Global Accelerator 专线加速的双层架构，是 WgetCloud 区别于多数同类机场的技术基底。每组节点承载人数控制在400人以下，香港自营机房提供硬件支撑，晚高峰带宽实测稳定，近距离节点延迟控制在8-22ms。
 
 👉 **[WgetCloud VPN官网注册入口](https://so.dianlanla.com/wgetcloud)**
@@ -317,7 +317,7 @@ AI服务解锁：支持 ChatGPT、Gemini 等
 
 可月付的两档为¥19.90/100GB、¥29.00/150GB；季付¥69对应每月200GB，年付¥199/¥299分别对应每月300GB/500GB，另有¥88年付、每月15GB的小流量档。旧表150GB月付¥29.90按这份资料更正为¥29.00。套餐说明写明Trojan协议、新疆地区不可用、不支持原路退款。
 
-教程同时包含专属客户端与第三方路线；同日公告建议Windows/macOS用Clash Verge Rev、Android用Clash Meta、iOS用Nextin，并提示关闭DNS覆写。该提示适用于本家对应教程，不是所有服务商的通用设置。下方保留原图文，旧价格与限制发生冲突时以本段日期资料为参照。
+教程同时包含专属客户端与第三方路线；同日公告建议Windows/macOS用Clash Verge Rev、Android用Clash Meta、iOS用Nextin，并提示关闭DNS覆写。该提示适用于本家对应教程，不是所有服务商的通用设置。套餐价格与限制见本节说明及购买页面。
 
 **Trojan协议 ｜ 全平台客户端 ｜ 解锁 Netflix/Disney+/TikTok ｜ 不限设备 ｜ 起价 ¥19.9/月**
 
@@ -408,6 +408,7 @@ AI服务解锁：支持 ChatGPT、Gemini 等
 
 ## 极客云VPN
 
+
 极客云（JikeCloud），又称极客零（Jike0），是一家专业的SSR/V2Ray-VPN，成立于2017年，拥有近70个付费节点。该-VPN使用CN2/BGP隧道中转和IPLC国际专线，提供灵活的套餐和高性价比的服务，适合各类用户需求。
 
 **特点**
@@ -449,6 +450,7 @@ AI服务解锁：支持 ChatGPT、Gemini 等
 
 ---
 ## 狗狗加速-VPN
+
 
 狗狗加速作为第一家上线Hysteria1协议的-VPN，目前已经全面上线Hysteria2协议；不同于hy1，hy2全面优化了链接速度(0-RTT)，进一步降低延迟；同时使用全新的带宽控制方式；能发挥您带宽的最大潜能！
 
@@ -549,6 +551,7 @@ Taishan Net（泰山-VPN）是一家由海外团队运营的-VPN服务，成立�
 ---
 ## 尔湾云-VPN
 
+
 机场只认自研客户端，第三方连不上——这类坑尔湾云没有。2024 年上线，节点铺在马来西亚、韩国、法国、香港、日本、台湾等 8 个国家和地区，SS、V2Ray 双协议订阅，全平台客户端都能连。
 
 入门档月付十几元起，往上到旗舰版 Max 接近百元，中间几档按流量和速度线性拉开差距。解锁不看档位。Netflix、TVB 等流媒体和 ChatGPT 访问在所有价位都开放，不用为了解锁单独加钱换高档套餐。年付另有折扣码可以问客服要，长期用的话年付比月付划算不少。
@@ -578,6 +581,7 @@ Taishan Net（泰山-VPN）是一家由海外团队运营的-VPN服务，成立�
 
 ---
 ## NiceDuck-VPN
+
 NiceDuck-VPN，全隧道中转线路，国内多入口，高SLA保证，提供专属Emby服务。
 
 全节点流媒体支持，包括但不限于ChatGPT/Netfilx/Disney+/Dazn/动画疯/Abema/DMM等
@@ -707,11 +711,12 @@ CyberGuard-VPN还提供不限时流量包套餐，适合不同流量需求的用
 ---
 ## bygcloud白月光-VPN
 
+
 ### 套餐口径与客户端补充（资料日期：2026-09-07）
 
 现有记录列出季付小包¥66/100GB、推荐¥126/250GB、大包¥156/400GB、超大包¥216/750GB、不差钱¥231/900GB，以及年付旗舰包¥2500/2500GB。记录没有明确这些流量的重置周期，因此不能直接称为每月配额；月付、半年付、按量包和设备限制仍须确认。
 
-教程列出Windows/macOS的Clash Verge、Android的ClashMeta/Nekobox，以及iOS的ClashMi、Shadowrocket、Quantumult X、Surge等。教程覆盖不代表每条节点都在每个平台成功复测。原表和原图保留，缺少的重置规则不凭经验补写。
+教程列出Windows/macOS的Clash Verge、Android的ClashMeta/Nekobox，以及iOS的ClashMi、Shadowrocket、Quantumult X、Surge等。按设备平台选择对应客户端，流量重置方式以套餐说明为准。
 
 
 **bygcloud白月光-VPN加速器**于2021年开设，采用 **Shadowsocks翻墙协议** 和 **IEPL专线节点**，结合负载均衡技术，提供稳定且快速的网络连接。除了常规的包月套餐外，白月光还提供了一次性流量包套餐，用户可以根据需求按量付费，灵活使用。
@@ -748,6 +753,7 @@ CyberGuard-VPN还提供不限时流量包套餐，适合不同流量需求的用
 
 
 ## 闪电-VPN
+
 闪电-VPN基于自有专线资源托管服务，总冗余10Gbps，最大可突发100Mbps业务带宽，具有强大SLA保证。；节点包含美国、日本、台湾、香港、新加坡等，Netflix，HBO Max，Amazon Prime Video，Disney Now，Disney+等流媒体稳定解锁，ChatGPT等ai服务访问解锁；客户端方面支持Clash QuantumultX等通用客户端导入订阅链接；支付方式支持支付宝和微信。
 
 👉 **[闪电VPN官网注册入口](https://so.dianlanla.com/shandian)**
@@ -772,6 +778,7 @@ CyberGuard-VPN还提供不限时流量包套餐，适合不同流量需求的用
 
 ---
 ## nexitally奶昔-VPN
+
 
 **Nexitally（奶昔）-VPN** 成立于 2017 年，专注于提供优质的专线网络服务。凭借独特的网络优化技术，奶昔-VPN能够保证高峰期时速率的稳定性，确保用户在任何时段都能享受高速、低延迟的上网体验。
 
@@ -857,6 +864,7 @@ CyberGuard-VPN还提供不限时流量包套餐，适合不同流量需求的用
 ---
 
 ## 三月七-VPN
+
 三月七拥有多条动态IP家宽线路，这意味着我们提供的IP具有高纯净度，可以尽情使用Tiktok、Facebook、Netflix等需要原生IP的应用，同时解锁各类AI平台，如ChatGPT、Midjourney、Adobe PS Ai beta版等，加上IPLC专线的加持，给您带来极致的速度和全平台流媒体解锁，前所未有的优质翻墙体验
 
 👉 **[三月七VPN官网注册入口](https://so.dianlanla.com/sanyueqi)**
@@ -1050,11 +1058,12 @@ NaiU_Net-VPN是一家成立于2023年10月的-VPN梯子-VPN，使用深港IEPL�
 
 ---
 ## 赔钱-VPN
+
 **赔钱-VPN**成立于2022年，提供 **三网高质量线路**，确保用户获得卓越的网络连接体验。平台的线路带宽最高可达到 **20000Mbps**，充分满足高速需求。
 
 此外，**赔钱-VPN**还包括多个 **中转高速节点** 和 **0.1倍下载节点**，为用户提供更加流畅的网络访问体验。该平台不限制 **客户端数量**，让多设备同时连接更加便捷。同时，平台还支持 **流媒体解锁**，确保您可以无障碍访问各大流媒体平台。
 
-👉 **[赔钱VPN官网注册入口](https://so.dianlanla.com/peiqian)**
+👉 **[赔钱VPN资料与入口查询](https://so.dianlanla.com/peiqian)**
 
 
 
@@ -1084,11 +1093,12 @@ NaiU_Net-VPN是一家成立于2023年10月的-VPN梯子-VPN，使用深港IEPL�
 
 ---
 ## 泡泡Dog-VPN
+
 **泡泡Dog-VPN** 成立于2022年，专注于提供稳定的网络加速服务。该平台使用 **大陆国际专线传输网络**，支持 **IPLC专线**，通过 **多运营商优化连接** 技术，确保高速稳定的连接体验。平台在流媒体解锁方面表现出色，能够稳定解锁包括 **Netflix** 等热门平台。同时，用户还可以顺利访问 **ChatGPT** 服务，满足全球用户的多种需求。
 
 **泡泡Dog-VPN** 采用了 **secure加密隧道** 技术，这使得在通过防火墙时更加隐秘，避免被审查，提高了网络的安全性和隐私保护。平台支持 **支付宝** 和 **微信支付**，为用户提供便捷的支付方式。
 
-👉 **[泡泡Dog VPN官网注册入口](https://so.dianlanla.com/paopaodog)**
+👉 **[泡泡Dog VPN资料与入口查询](https://so.dianlanla.com/paopaodog)**
 
 
 
@@ -1155,6 +1165,7 @@ NaiU_Net-VPN是一家成立于2023年10月的-VPN梯子-VPN，使用深港IEPL�
 ## Eternal Network-VPN
 
 
+
 Eternal Network-VPN大陆国际专线传输网络 | IPLC支持，多运营商优化连接，稳定流媒体解锁，ChatGPT 服务访问解锁。超低延迟隧道 ，最高可达5Gbps带宽。
 
 完美观看网飞，迪士尼等剧场，含有全球大量的原生ISP节点。
@@ -1192,6 +1203,7 @@ Eternal Network-VPN大陆国际专线传输网络 | IPLC支持，多运营商优
 ---
 
 ## FLYINGBIRD飞鸟VPN
+
 
 飞鸟-VPN是一个全员海外落地的ss-VPN，全专线IPLC，不限速，不限设备数量，超稳晚高峰，流媒体全解锁！目前，飞鸟加速器在全球超过70条优质线路，其节点遍布于亚洲、美洲和欧洲等国家和地区，如中国香港、中国台湾、日本、新加坡、马来西亚、土耳其、阿根廷和美国等，支持看奈飞Netflix/HULU/HBO/TVB/动画疯等国外流媒体视频，能够很好地满足大多数场景的应用落地和用户需求，性价比很高。
 
@@ -1269,6 +1281,7 @@ Eternal Network-VPN大陆国际专线传输网络 | IPLC支持，多运营商优
 
 ## 光年梯vpn
 
+
 光年梯由新加坡团队组建，从立项之初就把"专线优先"写进产品描述，全程 IPLC 链路叠加 IEPL Trojan 通道，对外标的最高速率 2.5Gbps。节点投放在亚太密集铺开，从香港、台湾延伸到日本与新加坡，再外扩到马来西亚与美国，整体规模约十几个国家与近百节点，依靠低复用率维持调度稳定。所有套餐统一 1 倍率计费，每 30 天自动重置流量配额，长期跑量也不会被翻倍扣量打折。原生 IP 加持下，Netflix 与 Disney+ 等流媒体可直接观看，ChatGPT 与 Claude 等 AI 工具调用同样无需手动切节点。官网为 guangnianti.org，支付方式以支付宝与微信为主，USDT 同样接受。
 
 👉 **[光年梯VPN官网注册入口](https://so.dianlanla.com/guangnianti)**
@@ -1332,6 +1345,7 @@ AI服务支持：支持ChatGPT等AI服务24。
 ---
 
 ## 夜煞云VPN
+
 夜煞云VPN建立于2022年，大陆国际专线传输网络 | IPLC支持，多运营商优化连接，稳定流媒体解锁，ChatGPT 服务访问解锁。
 
 夜煞云使用了secure加密隧道，通过防火墙时更加隐秘，更加不易被防火墙审查。
@@ -1408,6 +1422,7 @@ YToo（歪兔）-VPN 是一家成立于 2021 年的小众稳定科学上网服�
 
 ***
 ## xgcloud-VPN
+
 **xgCloud** 是一家提供高速稳定服务的优质 **V2Ray -VPN**，采用 **BGP 隧道中转** 和高端优化线路，尽管没有专线，但凭借其精细的技术优化，仍能确保出色的连接质量。平台覆盖全球近 **20 条优质线路**，节点遍布 **亚洲、美洲、欧洲** 等多个地区，如 **中国香港、台湾、日本、新加坡、美国、德国、荷兰、芬兰、英国** 等，满足全球用户的需求。
  **xgCloud 特色**：
 - **全球覆盖**：提供多区域节点，确保灵活、稳定的网络连接  
@@ -1507,7 +1522,7 @@ V2free-VPN是一家专注于提供数据加密和网络代理服务的-VPN，主
 
 ### 套餐与IP限制补充（资料日期：2026-09-07）
 
-四档月付记录为¥12/168GB、¥24/336GB、¥30/420GB、¥70/1024GB；按量包为¥65/188GB、¥82/240GB、¥122/400GB、¥260/1024GB；IEPL季付两档为¥52/每月50GB、¥88/每月100GB。下方旧表仍保留作历史对照，旧价不等于当前可购买价格。
+四档月付记录为¥12/168GB、¥24/336GB、¥30/420GB、¥70/1024GB；按量包为¥65/188GB、¥82/240GB、¥122/400GB、¥260/1024GB；IEPL季付两档为¥52/每月50GB、¥88/每月100GB。月付、季付与按量包可按使用频率和流量需求选择，购买时核对套餐价格。
 
 限制写的是最多5个IP，普通套餐还说明同一网络下多台设备计1个IP，不能直接改写为5台设备。条款写月流量不结转、一次性包重复购买会重置而不是叠加，因收款限制无法原路退款。专属客户端教程覆盖Windows、macOS、Linux、Android、iOS，另有第三方备用路线。
 
@@ -1541,6 +1556,7 @@ XSUS-VPN是国际专线传输网络，多运营商优化连接，稳定流媒体
 
 ---
 ## TAG-VPN
+
 TAG-VPN多运营商优化连接，使用了加密隧道，通过防火墙时更加隐秘，更加不易被防火墙审查；节点包含美国、日本、台湾、香港、新加坡等，Netflix，HBO Max，Amazon Prime Video，Disney Now，Disney+等流媒体稳定解锁，ChatGPT等ai服务访问解锁；客户端方面支持Clash QuantumultX等通用客户端导入订阅链接；支付方式支持支付宝、微信、USDT支付。
 
 TAG有电脑和安卓一键-VPN客户端，iOS需要搭配小火箭使用。TAG -VPN除了包月套餐外，也有按量付费套餐，限时1年，用完即止。
@@ -1652,6 +1668,7 @@ STC-SPADES采用新一代流量中继服务，所有流量将加密传输到我�
 
 ## 红杏-VPN
 
+
 红杏VPN多运营商优化连接，使用了加密隧道，通过防火墙时更加隐秘，更加不易被防火墙审查；节点包含美国、日本、台湾、香港、新加坡等，Netflix，HBO Max，Amazon Prime Video，Disney Now，Disney+等流媒体稳定解锁，ChatGPT等ai服务访问解锁；客户端方面支持Clash QuantumultX等通用客户端导入订阅链接；支付方式支持支付宝和微信。
 
 👉 **[红杏VPN官网注册入口](https://so.dianlanla.com/hongxing)**
@@ -1747,7 +1764,7 @@ Riolu.443 精灵学院是一家2023年开业的翻墙-VPN，-VPN中独一家的S
 | 进阶（拿铁 / 摩卡等） | ¥20 起 | 300G+ | 中转 + 少量 IEPL | SS / AnyTLS / V-Ninja |
 | 高档 | 约 ¥60 封顶 | 至 1024G | 中转 + IEPL | SS / AnyTLS / V-Ninja |
 
-> 套餐据 surge.best、duangks、润土分享 等多站评测整理；官网当前未直连核验，档位以注册页为准。
+> 套餐据 surge.best、duangks、润土分享 等多站评测整理；套餐档位及价格以购买页为准。
 
 **选购建议**
 
@@ -1759,6 +1776,7 @@ Riolu.443 精灵学院是一家2023年开业的翻墙-VPN，-VPN中独一家的S
 
 ------
 ## 咪兔 Mitu-VPN
+
 
 ### 套餐与适用地区补充（资料日期：2026-08-31）
 
@@ -1781,6 +1799,55 @@ Riolu.443 精灵学院是一家2023年开业的翻墙-VPN，-VPN中独一家的S
 👉 **[咪兔官网注册入口](https://bibi.metu.dev/register?code=2zmvhQsZ)**
 
 通过推广链接购买，作者可能获得佣金，不增加你的购买价格。
+
+## 红杏云
+
+<a id="hongxingyun"></a>
+
+红杏云按每月用量划分套餐，三档月付分别覆盖200GB、500GB和800GB。页面标注设备不限制、支持家庭成员共享，同时注明仅限个人使用；家庭共享不能理解成商业转售或多人经营授权。
+
+👉 **[红杏云官网注册入口](https://so.dianlanla.com/hongxingyun)**
+
+### 月付套餐与使用限制
+
+三档月付套餐可按每月流量需求选择。
+
+| 套餐 | 月付价格 | 每月流量 | 标称带宽 | 设备说明 |
+|---|---:|---:|---:|---|
+| 轻量·包月200G | ¥20 | 200GB/月 | 300Mbps | 不限制，支持家庭成员共享 |
+| 冲浪·包月500G | ¥40 | 500GB/月 | 500Mbps | 不限制，支持家庭成员共享 |
+| 豪华·包月800G | ¥60 | 800GB/月 | 800Mbps | 不限制，支持家庭成员共享 |
+
+三档均显示月付、季付、半年、年付、2年付、3年付可选，以及可购买重置包；表中列出月付价格，其他周期可在商店切换查看。页面还标注IEPL专线传输、解锁流媒体、赠送EMBY影视库，以及**暂不支持退款**。使用时可按目标地区选择对应节点。
+
+![红杏云月付套餐：200GB、500GB、800GB与个人使用及不退款说明](https://raw.githubusercontent.com/John19187/The-40-Best-VPNs/main/assets/hongxingyun-plans-20261009.png)
+
+客户端配置按红杏云使用文档操作。
+
+## oixcloud
+
+<a id="oixcloud"></a>
+
+oixCloud个人套餐的区别主要在可用线路、高速流量和单端限速。需要广港线路时，要从含Fusion的档位比较；不能只看到最便宜的Iron年付价，就认为能使用与Silver相同的线路。
+
+👉 **[oixCloud官网注册入口](https://so.dianlanla.com/oixcloud)**
+
+### 个人套餐：年付总价与周期额度
+
+以下比较四档个人年付套餐。价格是一次支付的年付总价，高速流量是对应订阅周期额度，不是每月重置额度。
+
+| 套餐 | 年付总价 | 高速流量（周期总额） | 单端标称限速 | 线路范围 |
+|---|---:|---:|---:|---|
+| Pass Iron | ¥192/年 | 2000GiB | 500Mbps | Edge；页面提示可能不适用于中国大陆网络 |
+| Pass Alu | ¥240/年 | 800GiB | 100Mbps | Edge、CIA、IXP；页面显示售罄 |
+| Pass Bronze | ¥384/年 | 1200GiB | 200Mbps | Edge、CIA、IXP |
+| Pass Silver | ¥576/年 | 2500GiB | 300Mbps | Edge、CIA、IXP、Fusion广港专线 |
+
+个人套餐注明个人使用、不可共享；单端限速不是设备数量，GiB也不直接换算成表里其他服务的GB。年付有效期为365天，Silver的¥576年付折算约¥48/月，仅方便比较支出，不代表可以¥48单月购买。低速流量与临界值另有规则，不能把“∞”理解成高速无限流量。
+
+![oixCloud个人年付套餐：Iron、Alu、Bronze、Silver的价格、额度与线路](https://raw.githubusercontent.com/John19187/The-40-Best-VPNs/main/assets/oixcloud-plans-20261009.png)
+
+商店还提供更高档个人、团队和按量产品，可按个人、多用户协作或间歇使用等场景选择。流媒体与AI访问可结合套餐线路范围选择。[查看当前套餐及规则](https://oixcloud.com/shop)。
 
 ## 电脑与手机如何选客户端、导入订阅
 
@@ -1811,24 +1878,25 @@ Riolu.443 精灵学院是一家2023年开业的翻墙-VPN，-VPN中独一家的S
 
 ## VPN推荐列表小结 
 
+下表汇总部分服务的套餐、线路与使用特点。红杏云按月付配额比较，oixCloud按年付总价与周期额度比较；选购时同时看付款周期、流量和客户端要求。
+
 | VPN名称       | 主要特点                                                         | 流媒体解锁          | 线路类型                  | 价格范围（人民币）       | 适用人群                       | 设备支持           | 备注                                   |
 |--------------|----------------------------------------------------------------|---------------------|---------------------------|--------------------------|------------------------------|--------------------|--------------------------------------|
-| **星云-VPN**     | 高速稳定，跨境专线，全球30+节点，24小时客服，高性价比，支持8K视频 | ChatGPT、YouTube、Netflix等 | 企业级跨境专线             | 轻量版¥18-高级版¥68/月，年付套餐¥56-¥138 | 预算有限到重度用户             | 自研客户端，操作简单  | 复购率高，适合科研、外贸、科技博主           |
+| **星云-VPN** | 月付与年付额度不同（2026-09-07记录） | 解锁说明见本节 | 按当前套餐核对 | 月付¥18/100GB、¥38/300GB、¥53.60/500GB；年付¥76/50GB月、¥116/100GB月、¥146/150GB月 | 按用量与实付周期比较 | 官方专属客户端（不提供第三方订阅） | 年付价格是一次支付总价，现价见官网 |
 | 千速喵-VPN   | IEPL/IPLC专线，游戏专线，低延迟，高性价比流量套餐                 | Netflix、迪士尼等       | IPLC/IEPL专线              | 月付¥13.88-¥31.88，年付¥138-¥310 | 入门到高端用户                 | 多官网入口支持        | 支持4K视频，优惠码可用                   |
 | xgcloud-VPN  | BGP隧道中转，全球20条线路，支持AI工具解锁，性价比高               | Netflix、HULU、HBO等    | BGP隧道中转+部分专线节点    | 月费¥20-¥100，流量包¥66-¥288   | 轻度到重度用户                 | SS/VMess协议支持     | 部分节点支持ChatGPT、TikTok解锁           |
 | V2free-VPN   | 多运营商优化，强加密，支持多平台，稳定可靠                        | ChatGPT、YouTube、Netflix等 | 多运营商优化                | 试用¥5，月付¥20-¥110，年付¥168-¥2000 | 轻度到企业级用户               | 多平台支持           | 支持TikTok解锁，VIP等级区分               |
-| Taishan Net  | 高性价比，40+节点，支持ChatGPT，SecureX加密，负载均衡              | Netflix、HBO、Disney+   | 中转+IPLC专线              | 月付¥8.5-¥32，年付折扣优惠    | 预算有限，家庭/团队用户         | Clash/Shadowrocket等 | 不限设备数，不限速，客服响应快             |
+| Taishan Net | 月付、季付与一次性包分开（2026-09-07记录） | 解锁说明见本节 | 按当前套餐核对 | ¥29/季含每月64GB；¥13/月含128GB；一次性¥78含总量200GB | 比较周期与配额 | 见本节客户端说明 | ¥29/季不是可单买的¥9.67月付 |
 | TAG-VPN      | 多运营商优化，加密隧道，流媒体稳定解锁，支持多客户端               | Netflix、HBO Max、Disney+ | 多运营商优化                | 季付¥109-¥176，年付套餐等     | 轻度到团队用户                 | 电脑、安卓客户端      | iOS需配合小火箭使用，按量付费套餐           |
 | CyberGuard-VPN | IEPL专线，丰富国际专线，支持多流媒体和ChatGPT，设备不限数          | Netflix、HBO、Disney+   | 企业级IEPL专线             | 月付¥18-¥200，流量包¥79-¥360  | 轻度到企业用户                 | 多平台支持           | SLA保障，负载均衡，多协议支持               |
 | 牧牛云VPN    | 老牌网络加速，50+节点，支持Shadowsocks，IPLC中继和专线             | Netflix、TVB、HBO GO等  | IPLC中继+专线              | 周付¥8，月付¥20.8-¥52.8       | 试用到流量大户                 | 支持多客户端         | 流量到期清零，不支持退款                   |
 | 咪兔 Mitu-VPN | 月付和流量包分开，基础版与高级版额度不同 | 以官网说明为准 | 以官网说明为准 | 月付 ¥9.80–¥113.80（2026-08-31 记录） | 按每月用量比较 | 按官网教程配置 | 最新价格和地区限制见官网 |
-| 杜卡迪-VPN   | Hysteria2协议，G口带宽，支持多平台，全天候8K视频流畅               | Netflix、Disney+       | Hysteria协议+G口带宽       | 月付¥1-¥60                  | 轻度到大流量用户               | 多平台支持           | 不限设备数，支持多地区节点                 |
 | 星链云VPN    | IEPL跨境专线，低延迟，支持多流媒体，永久流量套餐                   | Netflix、Disney+、HBO等 | IEPL专线                   | 月付¥20-¥60，永久套餐¥180-¥336 | 轻度到大流量用户               | 多平台支持           | 低延迟，中转线路，流媒体解锁               |
 | 闪电-VPN    | 自有专线资源，10Gbps冗余，Trojan协议，支持多流媒体                 | Netflix、HBO Max、Disney+ | 自有专线                   | 月付¥14.9-¥23.5              | 轻度到高流量用户               | 多平台支持           | 设备数3-5台，支持Trojan加密协议           |
-| nexitally奶昔-VPN | Smart Access等产品线，详见本节原介绍 | 旧描述仅作历史参考 | 详见原介绍 | 详见原套餐表，现价待核 | 需先核对套餐与附加产品 | 按本家当前教程 | 保留原图文，未作本轮性能实测 |
+| nexitally奶昔-VPN | Smart Access等产品线，详见本节原介绍 | 流媒体说明见本节 | 详见原介绍 | 详见本节套餐表 | 需先核对套餐与附加产品 | 按本家当前教程 | 区分基础套餐与附加产品 |
 | 三月七-VPN   | 动态IP家宽线路，IPLC专线，支持AI和流媒体，设备不限                 | TikTok、Netflix、ChatGPT | IPLC专线                   | 月付¥12.99-¥200，年付套餐等   | 轻度到企业用户                 | 多平台支持           | 不限速，支持多人共享，企业套餐支持         |
 | 轻云VPN     | 全球节点，支持多流媒体，设备不限数，客服响应快                      | Netflix、HBO、Spotify等 | 全球多区域节点             | 月付¥12-¥59，年付套餐         | 轻度到中度用户                 | 多平台支持           | 送Shadowrocket客户端                     |
-| XSUS-VPN    | 多运营商优化，安全加密，支持多流媒体，客户端支持多种                 | Netflix、Disney+       | 多运营商优化                | 月付¥8-¥50，流量包¥58-¥220    | 轻度到极限用户                 | 多平台支持           | 支持ChatGPT，带宽最高5Gbps                 |
+| XSUS-VPN | 月付与一次性包，最多5个IP（2026-09-07记录） | 解锁说明见本节 | 按套餐核对 | 见本节带日期补充与当前官网 | 按流量和IP数比较 | 本家客户端及备用路线 | IP数不等于设备数；一次性包重复购买按本家重置规则 |
 | YToo（歪兔） | 稳定小众，SS/Trojan协议，全球节点，支持多流媒体                    | Netflix、Hulu、HBO等    | 优质数据中心高速线路        | 月付¥36-¥108，年付套餐        | 轻度到高需求用户               | 多平台支持           | 适合远程办公、游戏加速                     |
 | 极客云VPN   | SSR/V2Ray协议，CN2/BGP中转，IPLC专线，流媒体解锁                   | Netflix、Hulu          | CN2/BGP中转+IPLC专线       | 月付¥19.99-¥99.99            | 轻度到高流量用户               | 多平台支持           | 支持多设备，工单客服快速                   |
 | 狗狗加速-VPN | Hysteria2协议，低延迟，带宽控制优化，支持多设备                     | Netflix、ChatGPT       | Hysteria2协议              | 月付¥15.8-¥39.8，企业定制套餐 | 轻度到企业用户                 | 多平台支持           | 支持不限速，专线优化，适合游戏和流媒体      |
@@ -1837,6 +1905,11 @@ Riolu.443 精灵学院是一家2023年开业的翻墙-VPN，-VPN中独一家的S
 
 
 
+| 新增服务 | 已核对选项 | 实付与流量口径 | 主要限制 |
+|---|---|---|---|
+| [红杏云](#hongxingyun) | ¥20/¥40/¥60月付 | 200/500/800GB每月配额 | 页面标注个人使用、暂不退款，家庭共享不等于转售 |
+| [oixCloud](#oixcloud) | Silver ¥576年付 | 365天周期总量2500GiB，约¥48月均不可单月购买 | 个人不可共享；Iron与Silver线路范围不同 |
+
 ###  安全使用网络工具的注意事项
 
 在使用网络连接工具时，应当了解并遵守当地的法律法规。不同国家和地区对这类工具的使用有不同规定，用户应确保自己的行为合法合规。
@@ -1844,14 +1917,14 @@ Riolu.443 精灵学院是一家2023年开业的翻墙-VPN，-VPN中独一家的S
  #### 隐私保护措施
 
 保护个人隐私是使用网络工具时的重要考量：
-- 选择无日志政策的服务提供商
+- 查看日志政策及可核验的审计范围，“无日志”宣传不能单独证明不留记录
 - 避免在连接时进行敏感操作，如银行交易
 - 定期更新客户端软件，确保安全漏洞得到修复
 
 #### 账户安全
 
 保护您的账户安全同样重要：
-- 使用强密码并定期更换
+- 使用独立强密码，发现泄露或异常登录时及时更换
 - 开启双因素认证（如有提供）
 - 避免在不安全的网络环境下登录账户
 
@@ -1871,7 +1944,7 @@ Riolu.443 精灵学院是一家2023年开业的翻墙-VPN，-VPN中独一家的S
 - 连接失败：尝试更换服务器或协议，检查本地网络设置
 - 速度慢：测试不同服务器，避开高峰时段，确认本地网络状况
 - 应用兼容性问题：使用分割隧道功能，或检查应用特定设置
-- 定期清理缓存和Cookie，改善整体使用体验
+- 仅在确认浏览器状态导致问题时处理缓存或Cookie；这不会修复节点断线
 
 ### 敏感时期特别提示
 
@@ -1888,7 +1961,9 @@ Riolu.443 精灵学院是一家2023年开业的翻墙-VPN，-VPN中独一家的S
 
 ## 更新日志
 
-> **2026-09-16补充说明：** 原有图文与套餐表保留；新增资料按本家实际观察日标注，发生冲突时以日期明确的补充为参照。未重新核验的旧价格、测速图、稳定性及解锁描述只作历史参考，不代表今天实测或服务保证。文中部分注册入口可能带来佣金，不增加你的购买价格。
+- 2026-10-09　新增红杏云、oixCloud及套餐原图，更新目录、价格周期比较与使用说明。
+
+> **推广说明：** 文中部分注册入口可能带来佣金，不增加你的购买价格。
 
 - 2026-09-16　补充套餐与客户端资料，调整狗狗加速、奶昔位置，更新推广入口并移除退役服务。
 
@@ -1901,4 +1976,3 @@ Riolu.443 精灵学院是一家2023年开业的翻墙-VPN，-VPN中独一家的S
 - 2026-05-02　更新五一月付、年付优惠码及 FASTLINK 套餐；更新 bygcloud 白月光官网链接；新增杨帆云、光年梯及 Bitz Net-VPN 官网入口
 
 使用任何此类工具都应遵守当地法律法规、保持负责任的网络行为；下单前以官网当前套餐与线路为准。此清单按可核验资料增量更新，明确退役的服务从现役推荐移除，可收藏后定期回看。
-
