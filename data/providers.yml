@@ -166,6 +166,14 @@ providers:
   name: Coffee Cloud 咖啡云-VPN
   source_heading: Coffee Cloud 咖啡云-VPN
   url: https://so.dianlanla.com/coffeecloud
+- id: hongxingyun
+  name: 红杏云
+  source_heading: 红杏云
+  url: https://so.dianlanla.com/hongxingyun
+- id: oixcloud
+  name: oixcloud
+  source_heading: oixcloud
+  url: https://so.dianlanla.com/oixcloud
 - id: mitu
   name: 咪兔 Mitu-VPN
   source_heading: 咪兔 Mitu-VPN
