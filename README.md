@@ -1,4 +1,5 @@
 
+
 # 稳定高速VPN推荐：40款性价比翻墙梯子完全指南
 
 [![Data and link checks](https://github.com/John19187/The-40-Best-VPNs/actions/workflows/data-and-links.yml/badge.svg)](https://github.com/John19187/The-40-Best-VPNs/actions/workflows/data-and-links.yml)
