@@ -27,7 +27,7 @@
 <details>
 <summary><b>目录：全部 44 款 · 点击展开</b></summary>
 
-[机场和 VPN 有什么区别，该选哪个](#机场和-vpn-有什么区别该选哪个) · [星云-VPN](#星云-vpn) · [闪连VPN](#闪连vpn) · [Cloud-VPN](#cloud-vpn) · [杨帆云vpn](#杨帆云vpn) · [WgetCloud VPN](#wgetcloud-vpn) · [大哥云-VPN](#大哥云-vpn) · [星链云VPN](#星链云vpn) · [极客云VPN](#极客云vpn) · [狗狗加速-VPN](#狗狗加速-vpn) · [Taishan Net 泰山-VPN](#taishan-net-泰山-vpn) · [疾风云-VPN](#疾风云-vpn) · [尔湾云-VPN](#尔湾云-vpn) · [九霄云-VPN](#九霄云-vpn) · [NiceDuck-VPN](#niceduck-vpn) · [CyberGuard-VPN](#cyberguard-vpn) · [bygcloud白月光-VPN](#bygcloud白月光-vpn) · [闪电-VPN](#闪电-vpn) · [nexitally奶昔-VPN](#nexitally奶昔-vpn) · [三月七-VPN](#三月七-vpn) · [奶优 NaiU_Net-VPN](#奶优-naiu_net-vpn) · [轻云VPN](#轻云vpn) · [千速喵-VPN](#千速喵-vpn) · [青云梯-VPN](#青云梯-vpn) · [赔钱-VPN](#赔钱-vpn) · [泡泡Dog-VPN](#泡泡dog-vpn) · [牧牛云VPN](#牧牛云vpn) · [Eternal Network-VPN](#eternal-network-vpn) · [FLYINGBIRD飞鸟VPN](#flyingbird飞鸟vpn) · [光年梯vpn](#光年梯vpn) · [龙猫云VPN](#龙猫云vpn) · [夜煞云VPN](#夜煞云vpn) · [YToo（歪兔）-VPN](#ytoo歪兔-vpn) · [xgcloud-VPN](#xgcloud-vpn) · [V2free-VPN](#v2free-vpn) · [XSUS-VPN](#xsus-vpn) · [TAG-VPN](#tag-vpn) · [STC-SPADES-VPN](#stc-spades-vpn) · [SpeedCAT闪电猫-VPN](#speedcat闪电猫-vpn) · [红杏-VPN](#红杏-vpn) · [Riolu 精灵学院-VPN](#riolu-精灵学院-vpn) · [Coffee Cloud 咖啡云-VPN](#coffee-cloud-咖啡云-vpn) · [咪兔 Mitu-VPN](#咪兔-mitu-vpn) · [红杏云](#hongxingyun) · [oixcloud](#oixcloud) · [电脑与手机如何选客户端、导入订阅](#电脑与手机如何选客户端导入订阅) · [VPN推荐列表小结](#vpn推荐列表小结) · [更新日志](#更新日志)
+[机场和 VPN 有什么区别，该选哪个](#机场和-vpn-有什么区别该选哪个) · [星云-VPN](#星云-vpn) · [闪连VPN](#闪连vpn) · [Cloud-VPN](#cloud-vpn) · [杨帆云vpn](#杨帆云vpn) · [WgetCloud VPN](#wgetcloud-vpn) · [大哥云-VPN](#大哥云-vpn) · [星链云VPN](#星链云vpn) · [极客云VPN](#极客云vpn) · [狗狗加速-VPN](#狗狗加速-vpn) · [Taishan Net 泰山-VPN](#taishan-net-泰山-vpn) · [疾风云-VPN](#疾风云-vpn) · [尔湾云-VPN](#尔湾云-vpn) · [九霄云-VPN](#九霄云-vpn) · [NiceDuck-VPN](#niceduck-vpn) · [CyberGuard-VPN](#cyberguard-vpn) · [bygcloud白月光-VPN](#bygcloud白月光-vpn) · [闪电-VPN](#闪电-vpn) · [nexitally奶昔-VPN](#nexitally奶昔-vpn) · [三月七-VPN](#三月七-vpn) · [奶优 NaiU_Net-VPN](#奶优-naiu_net-vpn) · [轻云VPN](#轻云vpn) · [千速喵-VPN](#千速喵-vpn) · [青云梯-VPN](#青云梯-vpn) · [赔钱-VPN](#赔钱-vpn) · [泡泡Dog-VPN](#泡泡dog-vpn) · [牧牛云VPN](#牧牛云vpn) · [Eternal Network-VPN](#eternal-network-vpn) · [FLYINGBIRD飞鸟VPN](#flyingbird飞鸟vpn) · [光年梯vpn](#光年梯vpn) · [龙猫云VPN](#龙猫云vpn) · [夜煞云VPN](#夜煞云vpn) · [YToo（歪兔）-VPN](#ytoo歪兔-vpn) · [xgcloud-VPN](#xgcloud-vpn) · [V2free-VPN](#v2free-vpn) · [XSUS-VPN](#xsus-vpn) · [TAG-VPN](#tag-vpn) · [STC-SPADES-VPN](#stc-spades-vpn) · [SpeedCAT闪电猫-VPN](#speedcat闪电猫-vpn) · [红杏-VPN](#红杏-vpn) · [Riolu 精灵学院-VPN](#riolu-精灵学院-vpn) · [Coffee Cloud 咖啡云-VPN](#coffee-cloud-咖啡云-vpn) · [咪兔 Mitu-VPN](#咪兔-mitu-vpn) · [红杏云](#hongxingyun) · [oixcloud](#oixcloud) · [FrogLeap-VPN](#frogleap-vpn) · [电脑与手机如何选客户端、导入订阅](#电脑与手机如何选客户端导入订阅) · [VPN推荐列表小结](#vpn推荐列表小结) · [更新日志](#更新日志)
 
 </details>
 
@@ -1848,6 +1848,27 @@ oixCloud个人套餐的区别主要在可用线路、高速流量和单端限速
 ![oixCloud个人年付套餐：Iron、Alu、Bronze、Silver的价格、额度与线路](https://raw.githubusercontent.com/John19187/The-40-Best-VPNs/main/assets/oixcloud-plans-20261009.png)
 
 商店还提供更高档个人、团队和按量产品，可按个人、多用户协作或间歇使用等场景选择。流媒体与AI访问可结合套餐线路范围选择。[查看当前套餐及规则](https://oixcloud.com/shop)。
+
+## FrogLeap-VPN
+
+套餐与客户端补充（资料日期：2026-10-14，来自官网公开价格接口）
+
+FrogLeap（fastergamer.click）是免注册的 Token 制加速服务：不留账号密码，邮箱下单后收到订阅链接（token），导入 Clash / sing-box 系通用客户端即用，无自研客户端。架构为纯直连——客户端直连境外节点（VLESS + WebSocket + TLS），无国内中转与 IPLC/IEPL 专线入口，线路成本反映在低定价上；敏感时期稳定性未经本站核验。官方隐私口径为「不记录访问内容，仅统计流量用量」，属服务商自述，未见第三方审计。
+
+| 套餐 | 价格 | 流量 | 设备数 | 备注 |
+|---|---|---|---|---|
+| 7 天免费体验 | 免费 | 8GB 总量 | 1 台 | 首页免注册领取，先试后买 |
+| 流量包（按量自选） | ¥1.5/GB | 10G 起，1 年有效 | 1 台 | 用完或到期即止 |
+| 季付小蛙 | ¥45/季 | 每月 20GB | 3 台 | 连续包季 ¥38 |
+| 季付大蛙 | ¥60/季 | 每月 40GB | 5 台 | 连续包季 ¥51 |
+| 季付蛙王 | ¥90/季 | 每月 80GB | 7 台 | 连续包季 ¥76 |
+| 年付小蛙 | ¥140/年 | 每月 20GB | 3 台 | 连续包年 ¥126；首购买 12 送 1 |
+| 年付大蛙 | ¥220/年 | 每月 40GB | 5 台 | 连续包年 ¥198；首购买 12 送 1 |
+| 年付蛙王 | ¥320/年 | 每月 80GB | 7 台 | 连续包年 ¥288；首购买 12 送 1 |
+
+节点覆盖香港、日本、美国、韩国、新加坡等地区；支付方式为支付宝、微信在线收银台。月度流量当月清零不结转，当月用完可提前重置或买流量包补充；年付档购买后 90 天内可自助退款（按剩余时长折算）。适合预算敏感、以网页与 AI 工具为主的轻度用户；4K 流媒体与晚高峰稳定性未核验，建议先用 7 天免费体验实测本地线路。
+
+👉 **[FrogLeap 官网入口](https://fastergamer.click)**
 
 ## 电脑与手机如何选客户端、导入订阅
 
