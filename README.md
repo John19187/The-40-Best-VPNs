@@ -27,7 +27,7 @@
 <details>
 <summary><b>目录：全部 44 款 · 点击展开</b></summary>
 
-[机场和 VPN 有什么区别，该选哪个](#机场和-vpn-有什么区别该选哪个) · [星云-VPN](#星云-vpn) · [闪连VPN](#闪连vpn) · [Cloud-VPN](#cloud-vpn) · [杨帆云vpn](#杨帆云vpn) · [WgetCloud VPN](#wgetcloud-vpn) · [大哥云-VPN](#大哥云-vpn) · [星链云VPN](#星链云vpn) · [极客云VPN](#极客云vpn) · [狗狗加速-VPN](#狗狗加速-vpn) · [Taishan Net 泰山-VPN](#taishan-net-泰山-vpn) · [疾风云-VPN](#疾风云-vpn) · [尔湾云-VPN](#尔湾云-vpn) · [九霄云-VPN](#九霄云-vpn) · [NiceDuck-VPN](#niceduck-vpn) · [CyberGuard-VPN](#cyberguard-vpn) · [bygcloud白月光-VPN](#bygcloud白月光-vpn) · [闪电-VPN](#闪电-vpn) · [nexitally奶昔-VPN](#nexitally奶昔-vpn) · [三月七-VPN](#三月七-vpn) · [奶优 NaiU_Net-VPN](#奶优-naiu_net-vpn) · [轻云VPN](#轻云vpn) · [千速喵-VPN](#千速喵-vpn) · [青云梯-VPN](#青云梯-vpn) · [赔钱-VPN](#赔钱-vpn) · [泡泡Dog-VPN](#泡泡dog-vpn) · [牧牛云VPN](#牧牛云vpn) · [Eternal Network-VPN](#eternal-network-vpn) · [FLYINGBIRD飞鸟VPN](#flyingbird飞鸟vpn) · [光年梯vpn](#光年梯vpn) · [龙猫云VPN](#龙猫云vpn) · [夜煞云VPN](#夜煞云vpn) · [YToo（歪兔）-VPN](#ytoo歪兔-vpn) · [xgcloud-VPN](#xgcloud-vpn) · [V2free-VPN](#v2free-vpn) · [XSUS-VPN](#xsus-vpn) · [TAG-VPN](#tag-vpn) · [STC-SPADES-VPN](#stc-spades-vpn) · [SpeedCAT闪电猫-VPN](#speedcat闪电猫-vpn) · [红杏-VPN](#红杏-vpn) · [Riolu 精灵学院-VPN](#riolu-精灵学院-vpn) · [Coffee Cloud 咖啡云-VPN](#coffee-cloud-咖啡云-vpn) · [咪兔 Mitu-VPN](#咪兔-mitu-vpn) · [红杏云](#hongxingyun) · [oixcloud](#oixcloud) · [电脑与手机如何选客户端、导入订阅](#电脑与手机如何选客户端导入订阅) · [VPN推荐列表小结](#vpn推荐列表小结) · [更新日志](#更新日志)
+[机场和 VPN 有什么区别，该选哪个](#机场和-vpn-有什么区别该选哪个) · [星云-VPN](#星云-vpn) · [闪连VPN](#闪连vpn) · [Cloud-VPN](#cloud-vpn) · [杨帆云vpn](#杨帆云vpn) · [WgetCloud VPN](#wgetcloud-vpn) · [大哥云-VPN](#大哥云-vpn) · [星链云VPN](#星链云vpn) · [极客云VPN](#极客云vpn) · [狗狗加速-VPN](#狗狗加速-vpn) · [Taishan Net 泰山-VPN](#taishan-net-泰山-vpn) · [疾风云-VPN](#疾风云-vpn) · [尔湾云-VPN](#尔湾云-vpn) · [九霄云-VPN](#九霄云-vpn) · [NiceDuck-VPN](#niceduck-vpn) · [CyberGuard-VPN](#cyberguard-vpn) · [bygcloud白月光-VPN](#bygcloud白月光-vpn) · [闪电-VPN](#闪电-vpn) · [nexitally奶昔-VPN](#nexitally奶昔-vpn) · [三月七-VPN](#三月七-vpn) · [奶优 NaiU_Net-VPN](#奶优-naiu_net-vpn) · [轻云VPN](#轻云vpn) · [千速喵-VPN](#千速喵-vpn) · [青云梯-VPN](#青云梯-vpn) · [赔钱-VPN](#赔钱-vpn) · [泡泡Dog-VPN](#泡泡dog-vpn) · [牧牛云VPN](#牧牛云vpn) · [Eternal Network-VPN](#eternal-network-vpn) · [FLYINGBIRD飞鸟VPN](#flyingbird飞鸟vpn) · [光年梯vpn](#光年梯vpn) · [龙猫云VPN](#龙猫云vpn) · [夜煞云VPN](#夜煞云vpn) · [YToo（歪兔）-VPN](#ytoo歪兔-vpn) · [xgcloud-VPN](#xgcloud-vpn) · [V2free-VPN](#v2free-vpn) · [XSUS-VPN](#xsus-vpn) · [TAG-VPN](#tag-vpn) · [STC-SPADES-VPN](#stc-spades-vpn) · [SpeedCAT闪电猫-VPN](#speedcat闪电猫-vpn) · [红杏-VPN](#红杏-vpn) · [Riolu 精灵学院-VPN](#riolu-精灵学院-vpn) · [Coffee Cloud 咖啡云-VPN](#coffee-cloud-咖啡云-vpn) · [咪兔 Mitu-VPN](#咪兔-mitu-vpn) · [红杏云](#hongxingyun) · [oixcloud](#oixcloud) · [Just My Socks（JMS）](#justmysocks) · [电脑与手机如何选客户端、导入订阅](#电脑与手机如何选客户端导入订阅) · [VPN推荐列表小结](#vpn推荐列表小结) · [更新日志](#更新日志)
 
 </details>
 
@@ -1848,6 +1848,31 @@ oixCloud个人套餐的区别主要在可用线路、高速流量和单端限速
 ![oixCloud个人年付套餐：Iron、Alu、Bronze、Silver的价格、额度与线路](https://raw.githubusercontent.com/John19187/The-40-Best-VPNs/main/assets/oixcloud-plans-20261009.png)
 
 商店还提供更高档个人、团队和按量产品，可按个人、多用户协作或间歇使用等场景选择。流媒体与AI访问可结合套餐线路范围选择。[查看当前套餐及规则](https://oixcloud.com/shop)。
+
+## Just My Socks（JMS）
+
+<a id="justmysocks"></a>
+
+Just My Socks是搬瓦工（BandwagonHost）官方推出的代理订阅服务，只有按周期付费的套餐，没有不限时流量包。线路分洛杉矶、伦敦、香港移动（CMI）、东京和香港三网五类；香港CMI只适合中国移动网络，电信、联通用户不要选。
+
+👉 **[Just My Socks官网](https://justmysocks.net/members/cart.php)**
+
+### 套餐价格表（2026-10-29官网购物车记录，美元）
+
+| 套餐 | 月付 | 年付 | 每月流量 | 端口速率 | 设备数 |
+|---|---:|---:|---:|---:|---|
+| LA 500 | $5.88 | $58.88 | 500GB | 2.5Gbps | 5台 |
+| LA 1000 | $9.88 | $98.88 | 1TB | 5Gbps | 不限 |
+| London 500 | $6.80 | $67.99 | 500GB | 2.5Gbps | 5台 |
+| London 1000 | $11.29 | $113.99 | 1TB | 5Gbps | 不限 |
+| Tokyo 100 | $29.99 | $299.99 | 100GB | 100Mbps | 3台 |
+| Premium HK 100（三网） | $34.99 | $349.99 | 100GB | 100Mbps | 3台 |
+
+端口速率是上限，不是国内实际速度。另有季付、半年付；部分套餐阶段性缺货，能否下单以购物车为准。付款支持PayPal、支付宝和银联；退款需同时满足官方条款中的条件（账号注册7天内、当月流量低于10%等）。
+
+### 订阅格式与客户端
+
+2026年7月起大部分节点改为VLESS Reality，另有少量Shadowsocks、VMess。后台Subscription页提供普通订阅和Mihomo / Clash.Meta YAML订阅（2026-07-20起）；Clash类客户端需用Mihomo内核的新版本，如Clash Verge Rev、FlClash，Clash for Windows和原版ClashX不支持全部协议。官方客户端为Jamjams。中文导入步骤可参考[Just My Socks Clash使用教程](https://justmysockss3.net/justmysocks-use-clash)。
 
 ## 电脑与手机如何选客户端、导入订阅
 
