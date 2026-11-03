@@ -1,5 +1,5 @@
 schema_version: 1
-updated_at: '2026-08-01'
+updated_at: '2026-11-03'
 maintenance: ongoing
 providers:
 - id: xingyun
@@ -178,3 +178,7 @@ providers:
   name: 咪兔 Mitu-VPN
   source_heading: 咪兔 Mitu-VPN
   url: https://bibi.metu.dev/register?code=2zmvhQsZ
+- id: tsuki
+  name: 月兔 VPN（Tsuki）
+  source_heading: 月兔 VPN（Tsuki）
+  url: https://buddahs-temptation.win/tsuki
