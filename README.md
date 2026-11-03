@@ -3,13 +3,13 @@
 
 [![Data and link checks](https://github.com/John19187/The-40-Best-VPNs/actions/workflows/data-and-links.yml/badge.svg)](https://github.com/John19187/The-40-Best-VPNs/actions/workflows/data-and-links.yml)
 [![License: MIT](https://img.shields.io/github/license/John19187/The-40-Best-VPNs)](LICENSE)
-[![Providers](https://img.shields.io/badge/providers-44-blue)](data/providers.yml)
+[![Providers](https://img.shields.io/badge/providers-45-blue)](data/providers.yml)
 [![Last commit](https://img.shields.io/github/last-commit/John19187/The-40-Best-VPNs)](https://github.com/John19187/The-40-Best-VPNs/commits/main)
 [![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)](CONTRIBUTING.md)
 
 翻墙梯子（俗称机场）通常提供按流量与线路分档的代理订阅，配置方式和服务边界与商业VPN不同。下面整理40余款服务的套餐与使用资料，帮助你比较预算、客户端、付款周期和用途；可按自己的使用场景对照选择。
 
-收录：星云、闪连、Cloud-VPN、WgetCloud、大哥云、星链云、杨帆云、极客云、狗狗加速、fastlink、泰山、NiceDuck、CyberGuard、白月光、闪电、奶昔（Nexitally）、三月七、奶优、轻云、千速喵、青云梯、赔钱、泡泡Dog、牧牛云、Eternal Network、飞鸟、光年梯、龙猫云、夜煞云、YToo歪兔、xgcloud、V2free、XSUS、TAG、STC-SPADES、SpeedCAT闪电猫、红杏、Riolu精灵学院、Coffee Cloud咖啡云 等、咪兔 Mitu-VPN、红杏云、oixcloud。
+收录：星云、闪连、Cloud-VPN、WgetCloud、大哥云、星链云、杨帆云、极客云、狗狗加速、fastlink、泰山、NiceDuck、CyberGuard、白月光、闪电、奶昔（Nexitally）、三月七、奶优、轻云、千速喵、青云梯、赔钱、泡泡Dog、牧牛云、Eternal Network、飞鸟、光年梯、龙猫云、夜煞云、YToo歪兔、xgcloud、V2free、XSUS、TAG、STC-SPADES、SpeedCAT闪电猫、红杏、Riolu精灵学院、Coffee Cloud咖啡云 等、咪兔 Mitu-VPN、红杏云、oixcloud、月兔 VPN（Tsuki）。
 
 <img alt="vpn-banner" src="https://github.com/user-attachments/assets/febe6cb4-75d7-4e9d-bc18-dfc8c46b3b1c" />
 
@@ -17,7 +17,7 @@
 
 本项目以开源方式持续维护服务商清单和核查工具：
 
-- [`data/providers.yml`](data/providers.yml)：44 个服务商的结构化登记表。
+- [`data/providers.yml`](data/providers.yml)：45 个服务商的结构化登记表。
 - [`docs/methodology.md`](docs/methodology.md)：数据维护与自动链接检查方法。
 - [`CONTRIBUTING.md`](CONTRIBUTING.md)：欢迎提交链接、价格和服务状态纠错。
 
@@ -25,9 +25,9 @@
 结构化数据和维护代码采用 [`MIT License`](LICENSE)；第三方材料说明见 [`NOTICE.md`](NOTICE.md)。
 
 <details>
-<summary><b>目录：全部 44 款 · 点击展开</b></summary>
+<summary><b>目录：全部 45 款 · 点击展开</b></summary>
 
-[机场和 VPN 有什么区别，该选哪个](#机场和-vpn-有什么区别该选哪个) · [星云-VPN](#星云-vpn) · [闪连VPN](#闪连vpn) · [Cloud-VPN](#cloud-vpn) · [杨帆云vpn](#杨帆云vpn) · [WgetCloud VPN](#wgetcloud-vpn) · [大哥云-VPN](#大哥云-vpn) · [星链云VPN](#星链云vpn) · [极客云VPN](#极客云vpn) · [狗狗加速-VPN](#狗狗加速-vpn) · [Taishan Net 泰山-VPN](#taishan-net-泰山-vpn) · [疾风云-VPN](#疾风云-vpn) · [尔湾云-VPN](#尔湾云-vpn) · [九霄云-VPN](#九霄云-vpn) · [NiceDuck-VPN](#niceduck-vpn) · [CyberGuard-VPN](#cyberguard-vpn) · [bygcloud白月光-VPN](#bygcloud白月光-vpn) · [闪电-VPN](#闪电-vpn) · [nexitally奶昔-VPN](#nexitally奶昔-vpn) · [三月七-VPN](#三月七-vpn) · [奶优 NaiU_Net-VPN](#奶优-naiu_net-vpn) · [轻云VPN](#轻云vpn) · [千速喵-VPN](#千速喵-vpn) · [青云梯-VPN](#青云梯-vpn) · [赔钱-VPN](#赔钱-vpn) · [泡泡Dog-VPN](#泡泡dog-vpn) · [牧牛云VPN](#牧牛云vpn) · [Eternal Network-VPN](#eternal-network-vpn) · [FLYINGBIRD飞鸟VPN](#flyingbird飞鸟vpn) · [光年梯vpn](#光年梯vpn) · [龙猫云VPN](#龙猫云vpn) · [夜煞云VPN](#夜煞云vpn) · [YToo（歪兔）-VPN](#ytoo歪兔-vpn) · [xgcloud-VPN](#xgcloud-vpn) · [V2free-VPN](#v2free-vpn) · [XSUS-VPN](#xsus-vpn) · [TAG-VPN](#tag-vpn) · [STC-SPADES-VPN](#stc-spades-vpn) · [SpeedCAT闪电猫-VPN](#speedcat闪电猫-vpn) · [红杏-VPN](#红杏-vpn) · [Riolu 精灵学院-VPN](#riolu-精灵学院-vpn) · [Coffee Cloud 咖啡云-VPN](#coffee-cloud-咖啡云-vpn) · [咪兔 Mitu-VPN](#咪兔-mitu-vpn) · [红杏云](#hongxingyun) · [oixcloud](#oixcloud) · [电脑与手机如何选客户端、导入订阅](#电脑与手机如何选客户端导入订阅) · [VPN推荐列表小结](#vpn推荐列表小结) · [更新日志](#更新日志)
+[机场和 VPN 有什么区别，该选哪个](#机场和-vpn-有什么区别该选哪个) · [星云-VPN](#星云-vpn) · [闪连VPN](#闪连vpn) · [Cloud-VPN](#cloud-vpn) · [杨帆云vpn](#杨帆云vpn) · [WgetCloud VPN](#wgetcloud-vpn) · [大哥云-VPN](#大哥云-vpn) · [星链云VPN](#星链云vpn) · [极客云VPN](#极客云vpn) · [狗狗加速-VPN](#狗狗加速-vpn) · [Taishan Net 泰山-VPN](#taishan-net-泰山-vpn) · [疾风云-VPN](#疾风云-vpn) · [尔湾云-VPN](#尔湾云-vpn) · [九霄云-VPN](#九霄云-vpn) · [NiceDuck-VPN](#niceduck-vpn) · [CyberGuard-VPN](#cyberguard-vpn) · [bygcloud白月光-VPN](#bygcloud白月光-vpn) · [闪电-VPN](#闪电-vpn) · [nexitally奶昔-VPN](#nexitally奶昔-vpn) · [三月七-VPN](#三月七-vpn) · [奶优 NaiU_Net-VPN](#奶优-naiu_net-vpn) · [轻云VPN](#轻云vpn) · [千速喵-VPN](#千速喵-vpn) · [青云梯-VPN](#青云梯-vpn) · [赔钱-VPN](#赔钱-vpn) · [泡泡Dog-VPN](#泡泡dog-vpn) · [牧牛云VPN](#牧牛云vpn) · [Eternal Network-VPN](#eternal-network-vpn) · [FLYINGBIRD飞鸟VPN](#flyingbird飞鸟vpn) · [光年梯vpn](#光年梯vpn) · [龙猫云VPN](#龙猫云vpn) · [夜煞云VPN](#夜煞云vpn) · [YToo（歪兔）-VPN](#ytoo歪兔-vpn) · [xgcloud-VPN](#xgcloud-vpn) · [V2free-VPN](#v2free-vpn) · [XSUS-VPN](#xsus-vpn) · [TAG-VPN](#tag-vpn) · [STC-SPADES-VPN](#stc-spades-vpn) · [SpeedCAT闪电猫-VPN](#speedcat闪电猫-vpn) · [红杏-VPN](#红杏-vpn) · [Riolu 精灵学院-VPN](#riolu-精灵学院-vpn) · [Coffee Cloud 咖啡云-VPN](#coffee-cloud-咖啡云-vpn) · [咪兔 Mitu-VPN](#咪兔-mitu-vpn) · [红杏云](#hongxingyun) · [oixcloud](#oixcloud) · [月兔 VPN（Tsuki）](#tsuki) · [电脑与手机如何选客户端、导入订阅](#电脑与手机如何选客户端导入订阅) · [VPN推荐列表小结](#vpn推荐列表小结) · [更新日志](#更新日志)
 
 </details>
 
@@ -1849,6 +1849,32 @@ oixCloud个人套餐的区别主要在可用线路、高速流量和单端限速
 
 商店还提供更高档个人、团队和按量产品，可按个人、多用户协作或间歇使用等场景选择。流媒体与AI访问可结合套餐线路范围选择。[查看当前套餐及规则](https://oixcloud.com/shop)。
 
+## 月兔 VPN（Tsuki）
+
+<a id="tsuki"></a>
+
+公开入口为 <https://buddahs-temptation.win/tsuki>。2026-11-03 访问该地址会转到登录页，页面标题为「月兔 VPN（Tsuki）官网｜代理订阅与客户端教程」。无需登录的说明页写明服务入口为 `buddahs-temptation.win/tsuki/login`，并标注发布日期 2026-10-26、更新日期 2026-10-28。
+
+月兔提供按流量和有效期选择的网络代理订阅。流量额度、上传和下载带宽、价格与可选时长在登录后的套餐页查看；登录前的公开页面没有列出具体价格，这里不转写未公开的数字。
+
+公开页面写明的客户端：
+
+| 设备 | 页面写明的客户端 |
+|---|---|
+| iPhone、iPad | Shadowrocket 或 Hiddify |
+| 安卓 | Clash Meta |
+| Windows、Mac | Clash Verge |
+
+第三方客户端的费用不含在订阅中。网页账号负责购买与用量，订阅链接负责导入配置；只注册账号不会自动连上。订阅链接不要发到公开场合。名称里带“兔”的其他服务，不能仅凭名字判断为同一家。
+
+不需要登录即可阅读：
+
+- [使用前先读](https://buddahs-temptation.win/tsuki/learn)
+- [VPN 与代理术语](https://buddahs-temptation.win/tsuki/learn/vpn-proxy)
+- [订阅检查清单](https://buddahs-temptation.win/tsuki/learn/subscription)
+
+👉 **[月兔 VPN（Tsuki）入口](https://buddahs-temptation.win/tsuki)**
+
 ## 电脑与手机如何选客户端、导入订阅
 
 服务商和客户端是两回事：有的服务交付独立App，有的交付兼容订阅。已有Clash配置习惯时，先确认本家仍提供这种格式；星云这类已声明停止第三方订阅的服务，应按本家专属客户端教程走。
@@ -1909,6 +1935,7 @@ oixCloud个人套餐的区别主要在可用线路、高速流量和单端限速
 |---|---|---|---|
 | [红杏云](#hongxingyun) | ¥20/¥40/¥60月付 | 200/500/800GB每月配额 | 页面标注个人使用、暂不退款，家庭共享不等于转售 |
 | [oixCloud](#oixcloud) | Silver ¥576年付 | 365天周期总量2500GiB，约¥48月均不可单月购买 | 个人不可共享；Iron与Silver线路范围不同 |
+| [月兔 VPN（Tsuki）](#tsuki) | 登录后查看流量、带宽与时长 | 价格与额度以登录后套餐页为准（2026-11-03 公开页未列价格） | 第三方客户端费用另计；订阅链接不要公开 |
 
 ###  安全使用网络工具的注意事项
 
@@ -1960,6 +1987,8 @@ oixCloud个人套餐的区别主要在可用线路、高速流量和单端限速
 查看更多VPN推荐资讯，请访问以下文章:  - <a href="https://github.com/John19187/ji-chang-tui-jian" target="_blank">机场汇总推荐</a> - <a href="https://github.com/John19187/The-40-Best-VPNs" target="_blank">稳定高速VPN推荐</a> - <a href="https://github.com/John19187/v2ray-SSR-Clash-Verge-Shadowrocke" target="_blank">免费订阅</a> - [2026最全机场（SSR/V2Ray/Trojan/Clash）科普与选购指南](https://github.com/John19187/ssr-v2ray-trojan-clash-guide) - [高速稳定VPN与翻墙加速器评测与选购攻略！](https://github.com/John19187/vpn-accelerator-guide)
 
 ## 更新日志
+
+- 2026-11-03　新增月兔 VPN（Tsuki）公开入口 https://buddahs-temptation.win/tsuki ，并同步目录与登记表。价格以登录后套餐页为准。
 
 - 2026-10-09　新增红杏云、oixCloud及套餐原图，更新目录、价格周期比较与使用说明。
 
