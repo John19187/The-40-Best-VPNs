@@ -13,11 +13,11 @@ providers:
 - id: cloud-vpn
   name: Cloud-VPN
   source_heading: Cloud-VPN
-  url: https://www.weidu1.com/#/register?code=ED0kYGS6
+  url: https://so.dianlanla.com/wcloudvpn
 - id: yangfan
   name: 杨帆云vpn
   source_heading: 杨帆云vpn
-  url: https://ml.yfqz1.net/register?code=Ln9zXJ4W
+  url: https://so.dianlanla.com/yangfan
 - id: wgetcloud
   name: WgetCloud VPN
   source_heading: WgetCloud VPN
@@ -25,7 +25,7 @@ providers:
 - id: dageyun
   name: 大哥云-VPN
   source_heading: 大哥云-VPN
-  url: https://dageyun.net/#/register?code=dxFHFakJ
+  url: https://so.dianlanla.com/dageyun
 - id: xinglian
   name: 星链云VPN
   source_heading: 星链云VPN
@@ -41,7 +41,7 @@ providers:
 - id: taishan-net
   name: Taishan Net 泰山-VPN
   source_heading: Taishan Net 泰山-VPN
-  url: https://hk.taishan.pro/#/register?code=7xY3tNqw
+  url: https://so.dianlanla.com/taishan-net
 - id: jifeng
   name: 疾风云-VPN
   source_heading: 疾风云-VPN
@@ -101,7 +101,7 @@ providers:
 - id: paopao-dog
   name: 泡泡Dog-VPN
   source_heading: 泡泡Dog-VPN
-  url: https://www.paopao.dog/#/register?code=fLy9BSIX
+  url: https://so.dianlanla.com/paopaodog
 - id: muniuyun
   name: 牧牛云VPN
   source_heading: 牧牛云VPN
@@ -141,7 +141,7 @@ providers:
 - id: xsus
   name: XSUS-VPN
   source_heading: XSUS-VPN
-  url: https://xsus.cloud/register?code=H6OS035S
+  url: https://so.dianlanla.com/xsus
 - id: tag
   name: TAG-VPN
   source_heading: TAG-VPN
@@ -177,4 +177,4 @@ providers:
 - id: mitu
   name: 咪兔 Mitu-VPN
   source_heading: 咪兔 Mitu-VPN
-  url: https://bibi.metu.dev/register?code=2zmvhQsZ
+  url: https://so.dianlanla.com/mitu
