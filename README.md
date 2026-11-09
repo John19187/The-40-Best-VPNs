@@ -232,7 +232,7 @@
 
 整体定位偏向高性价比与稳定长期使用。主打多入口网络架构 + 高速专线节点 + 高性价比套餐，在稳定性和价格之间取得了不错的平衡，其采用 多入口智能调度网络，通过自动分配最佳接入线路来降低延迟，并提供 最高3000Mbps突发带宽，官方承诺 99.9% SLA可用率。在实际体验中，其节点覆盖超过 50+国家地区、70+服务器节点，包括美国、日本、新加坡、香港、欧洲等热门区域，同时也包含一些相对冷门的优化节点，适合不同网络环境的用户使用。日常浏览、流媒体观看以及 AI 工具访问均能满足需求。套餐定价处于当前市场中低价区间，同时提供不同流量档位与一次性流量包，适合从轻度到重度用户按需选择。
 
-👉 **[Cloud-VPN 官网注册入口](https://www.weidu1.com/#/register?code=ED0kYGS6)**
+👉 **[Cloud-VPN 官网注册入口](https://so.dianlanla.com/wcloudvpn)**
 
 
 **价格优势**
@@ -277,7 +277,7 @@
 
 2025 年开服的杨帆云由海外团队搭建，主线路混搭 IEPL 隧道与 BGP 中转的双层架构，最高规格释放 2000Mbps 带宽，节点投放在香港、台湾、日本、新加坡与美国五地，账号能不能落到这些节点全看套餐档位 — 从 LV1 到旗舰版逐级解锁，越高档位接入的专线池越深，等级三与全 IEPL 之间的速率差距相当明显。订阅协议以 V2Ray / Vmess 为主，封装在自研客户端 UniClash 内使用，第三方 Clash Verge 与 Shadowrocket 在新版加密下连接已不稳定。流媒体与 ChatGPT 的解锁能力随节点等级浮动 
 
-👉 **[杨帆云VPN官网注册入口](https://ml.yfqz1.net/register?code=Ln9zXJ4W)**
+👉 **[杨帆云VPN官网注册入口](https://so.dianlanla.com/yangfan)**
 
 
 
@@ -351,7 +351,7 @@ AI服务解锁：支持 ChatGPT、Gemini 等
 
 - 9折优惠券：mcuE8uOq（年付套餐可用）
 
-👉 **[大哥云-VPN官网注册入口](https://dageyun.net/#/register?code=dxFHFakJ)**
+👉 **[大哥云-VPN官网注册入口](https://so.dianlanla.com/dageyun)**
 
 ![大哥云后台公告：2026.7.6 线路优化，请及时更新订阅](https://so.dianlanla.com/img/dageyun-notice.png)
 
@@ -520,7 +520,7 @@ AI服务解锁：支持 ChatGPT、Gemini 等
 教程覆盖Windows、Android、Apple芯片Mac、Intel Mac专属客户端，也列出Clash Verge、Nextin、Shadowrocket路线。下载时按当前设备与官网教程选包，不把历史版本号当作最新版本。下表价格与额度按同份2026-09-07记录统一，付款时核对当前套餐页。
 
 
-👉 **[泰山VPN官网注册入口](https://hk.taishan.pro/#/register?code=7xY3tNqw)**
+👉 **[泰山VPN官网注册入口](https://so.dianlanla.com/taishan-net)**
 
 ![泰山机场4](https://github.com/user-attachments/assets/3ed737d6-5fc0-4d0a-8162-4e2385cb4006)
 
@@ -1123,7 +1123,7 @@ NaiU_Net-VPN是一家成立于2023年10月的-VPN梯子-VPN，使用深港IEPL�
 
 **泡泡Dog-VPN** 标示采用secure加密隧道，支持支付宝和微信支付。客户端下载与订阅配置按本家教程操作。
 
-👉 **[泡泡Dog VPN官网注册入口](https://www.paopao.dog/#/register?code=fLy9BSIX)**
+👉 **[泡泡Dog VPN官网注册入口](https://so.dianlanla.com/paopaodog)**
 
 
 
@@ -1552,7 +1552,7 @@ V2free-VPN是一家专注于提供数据加密和网络代理服务的-VPN，主
 限制写的是最多5个IP，普通套餐还说明同一网络下多台设备计1个IP，不能直接改写为5台设备。条款写月流量不结转、一次性包重复购买会重置而不是叠加，因收款限制无法原路退款。专属客户端教程覆盖Windows、macOS、Linux、Android、iOS，另有第三方备用路线。
 
 
-👉 **[XSUS官网注册入口](https://xsus.cloud/register?code=H6OS035S)**
+👉 **[XSUS官网注册入口](https://so.dianlanla.com/xsus)**
 
 XSUS-VPN是国际专线传输网络，多运营商优化连接，稳定流媒体解锁，ChatGPT 服务访问解锁;使用了加密隧道，通过防火墙时更加隐秘，更加不易被防火墙审查；客户端方面支持Clash QuantumultX等通用客户端导入订阅链接；支付方式支持支付宝和微信。
 
@@ -1822,7 +1822,7 @@ Riolu.443 精灵学院是一家2023年开业的翻墙-VPN，-VPN中独一家的S
 
 2026 年 8 月 31 日的官网记录中，基础版月付为 ¥9.80／90 GB 至 ¥45.80／500 GB，高级版月付为 ¥14.80／64 GB 至 ¥113.80／512 GB。这是当时记录的价格，最新套餐、地区限制与使用说明以官网为准。
 
-👉 **[咪兔官网注册入口](https://bibi.metu.dev/register?code=2zmvhQsZ)**
+👉 **[咪兔官网注册入口](https://so.dianlanla.com/mitu)**
 
 通过推广链接购买，作者可能获得佣金，不增加你的购买价格。
 
